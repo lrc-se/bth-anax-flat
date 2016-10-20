@@ -7,6 +7,7 @@ views:
         template: default/content
         sort: 1
         data:
+            class: byline
             meta:
                 type: content
                 route: block/byline
