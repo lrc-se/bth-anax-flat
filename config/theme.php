@@ -21,11 +21,12 @@ return [
             "favicon"       => "favicon.ico",
 
             // Style and stylesheets
-            "stylesheets" => ["css/default.min.css"],
+            //"stylesheets" => ["css/default.min.css"],
+            "stylesheets" => ["css/style.min.css"],
             "styleInline" => null,
 
             // JavaScript
-            "javascripts" => [],
+            "javascripts" => ["js/responsive-menu.js"],
         ],
     ],
 
@@ -60,14 +61,14 @@ return [
             ],
             "sort" => 2
         ],
-/*
+
         [
             "region" => "profile",
             "template" => "default/navbar-max",
             "data" => [],
             "sort" => -1
         ],
-*/
+
         [
             "region" => "navbar2",
             "template" => "default/navbar",
