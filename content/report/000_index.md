@@ -1,5 +1,5 @@
 ---
-titleBreadcrumb: Redovisningar
+titleBreadcrumb: Redovisning
 ...
 
 Introduktion

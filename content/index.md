@@ -1,5 +1,5 @@
 ---
-titleBreadcrumb: Start
+titleBreadcrumb: Om mig
 
 views:
     byline:
@@ -36,4 +36,4 @@ Varför jag är här:
 På fritiden blir det en hel del fjäll och friluftsliv, såväl sommar som vinter, liksom musicerande av olika slag – 
 jag behärskar mer än en typ av tangenter. Och passa er för mina ordvitsar!
 
-![Fjällvy](img/me.jpg)
+<img class="border" src="img/me.jpg" alt="Fjällvy">
