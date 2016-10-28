@@ -36,4 +36,4 @@ Varför jag är här:
 På fritiden blir det en hel del fjäll och friluftsliv, såväl sommar som vinter, liksom musicerande av olika slag – 
 jag behärskar mer än en typ av tangenter. Och passa er för mina ordvitsar!
 
-<img class="border" src="img/me.jpg" alt="Fjällvy">
+![Fjällvy](img/me.jpg){.border}
