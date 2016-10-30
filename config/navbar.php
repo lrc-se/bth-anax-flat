@@ -26,6 +26,12 @@ return [
                 "title" => "Om webbplatsen"
             ],
             
+            "grid" => [
+                "text"  => "Kolumner",
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => "Test av kolumner"
+            ],
+            
             "report" => [
                 "text"  => "Redovisning",
                 "url"   => $this->di->get("url")->create("report"),
@@ -60,6 +66,12 @@ return [
                 "text"  => "Om webbplatsen",
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => "Om webbplatsen"
+            ],
+            
+            "grid" => [
+                "text"  => "Kolumner",
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => "Test av kolumner"
             ],
             
             "report" => [
