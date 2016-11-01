@@ -32,6 +32,12 @@ return [
                 "title" => "Test av kolumner"
             ],
             
+            "typography" => [
+                "text"  => "Typografi",
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => "Test av typografisk stilsättning"
+            ],
+            
             "report" => [
                 "text"  => "Redovisning",
                 "url"   => $this->di->get("url")->create("report"),
@@ -72,6 +78,12 @@ return [
                 "text"  => "Kolumner",
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => "Test av kolumner"
+            ],
+            
+            "typography" => [
+                "text"  => "Typografi",
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => "Test av typografisk stilsättning"
             ],
             
             "report" => [
