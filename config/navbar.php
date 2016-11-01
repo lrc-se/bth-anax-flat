@@ -35,7 +35,7 @@ return [
             "typography" => [
                 "text"  => "Typografi",
                 "url"   => $this->di->get("url")->create("typography"),
-                "title" => "Test av typografisk stilsättning"
+                "title" => "Test av typografisk stilsÃ¤ttning"
             ],
             
             "report" => [
@@ -83,7 +83,7 @@ return [
             "typography" => [
                 "text"  => "Typografi",
                 "url"   => $this->di->get("url")->create("typography"),
-                "title" => "Test av typografisk stilsättning"
+                "title" => "Test av typografisk stilsÃ¤ttning"
             ],
             
             "report" => [

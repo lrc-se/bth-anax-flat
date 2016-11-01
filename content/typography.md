@@ -37,7 +37,7 @@ Ny avdelning
 ------------
 
 Jaha, då var det en ny avdelning då. Vad skall vi göra här? Tja, vad sägs om lite text i <small>olika storlekar</small>? Storsjön innehåller 8,02 km<sup>3</sup> H<sub>2</sub>O. 
-**Plus** ett odjur.
+Plus ett **odjur**!
 
 Här är ett citat också:
 
@@ -45,6 +45,15 @@ Här är ett citat också:
 > But I dream things that never were; and I say 'Why not?'
 
 Han har sagt mycket, den där [Shawsnubben](https://en.wikipedia.org/wiki/George_Bernard_Shaw).
+
+
+## Rubriknivå 2
+### Rubriknivå 3
+#### Rubriknivå 4
+##### Rubriknivå 5
+###### Rubriknivå 6
+
+Titta, det funkar!!
 
 
 Sista avdelningen
@@ -63,6 +72,24 @@ JavaScript
 SQL
 : Frågespråk för databaser
 
+~~~
+/* PHP */
+echo (isset($_GET['search'] ? htmlspecialchars($_GET['search']) : '');
+
+// JS
+var btn = document.getElementById("button1");
+btn.addEventListener("click", function(e) {
+    e.target.style.display = "none";
+});
+
+-- SQL
+SELECT o.* FROM Order o
+    JOIN OrderLine ol ON o.id = ol.orderId
+    JOIN Customer c ON ol.custId = c.id
+WHERE c.id = ?
+ORDER BY o.orderDate DESC;
+~~~
+
 ---
 
 ...och så ett par tabeller när vi ändå håller på:
@@ -79,6 +106,7 @@ SQL
 | Koftor  | 350 kr |
 | Betongborr | 1799 kr |
 | Stearinljus | Gratis |
+| Bok om medeltida byggnadskonst | *Snälla, ta den bara!* |
 </div>
 
 ###### Avslutning
@@ -87,4 +115,4 @@ Ja, det var väl ungefär allt jag hade att bjuda på idag. Det blev ändå rät
 men innehållet är å andra sidan inte särskilt viktigt här. Samtidigt blir det lite mer livat om det inte bara är "lorem ipsum"-text överallt -- det tycker i alla fall jag. 
 Så därför fick det bli så här.
 
-__Hej då!__
+___Hej då!___
