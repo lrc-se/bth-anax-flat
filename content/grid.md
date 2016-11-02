@@ -1,4 +1,5 @@
 ---
+titleBreadcrumb: Kolumner
 views:
     right:
         region: sidebar-right

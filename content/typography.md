@@ -1,3 +1,7 @@
+---
+titleBreadcrumb: Typografi
+...
+
 Typografiska element
 ====================
 
@@ -74,7 +78,7 @@ SQL
 
 ~~~
 /* PHP */
-echo (isset($_GET['search'] ? htmlspecialchars($_GET['search']) : '');
+echo (isset($_GET['search']) ? htmlspecialchars($_GET['search']) : '');
 
 // JS
 var btn = document.getElementById("button1");
@@ -113,6 +117,9 @@ ORDER BY o.orderDate DESC;
 
 Ja, det var väl ungefär allt jag hade att bjuda på idag. Det blev ändå rätt bra, eller hur? Fast det är klart, det är kanske mer text än faktiskt *innehåll*, 
 men innehållet är å andra sidan inte särskilt viktigt här. Samtidigt blir det lite mer livat om det inte bara är "lorem ipsum"-text överallt -- det tycker i alla fall jag. 
-Så därför fick det bli så här.
+Så därför fick det bli så här. YMMV.
 
 ___Hej då!___
+
+
+*[YMMV]: Your Mileage May Vary ("du kanske inte håller med")
