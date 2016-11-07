@@ -38,6 +38,12 @@ return [
                 "title" => "Test av typografisk stilsättning"
             ],
             
+            "analysis" => [
+                "text"  => "Analys",
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => "Analys av webbplatser"
+            ],
+            
             "report" => [
                 "text"  => "Redovisning",
                 "url"   => $this->di->get("url")->create("report"),
@@ -84,6 +90,12 @@ return [
                 "text"  => "Typografi",
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => "Test av typografisk stilsättning"
+            ],
+            
+            "analysis" => [
+                "text"  => "Analys",
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => "Analys av webbplatser"
             ],
             
             "report" => [
