@@ -41,14 +41,15 @@ return [
             "analysis" => [
                 "text"  => "Analys",
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => "Analys av webbplatser"
+                "title" => "Analys av webbplatser",
+                "mark-if-parent" => true
             ],
             
             "report" => [
                 "text"  => "Redovisning",
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => "Redovisning av kursmoment",
-                "mark-if-parent" => true,
+                "mark-if-parent" => true
             ],
 
         ],
@@ -95,14 +96,15 @@ return [
             "analysis" => [
                 "text"  => "Analys",
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => "Analys av webbplatser"
+                "title" => "Analys av webbplatser",
+                "mark-if-parent" => true
             ],
             
             "report" => [
                 "text"  => "Redovisning",
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => "Redovisning av kursmoment",
-                "mark-if-parent" => true,
+                "mark-if-parent" => true
             ],
             
         ],

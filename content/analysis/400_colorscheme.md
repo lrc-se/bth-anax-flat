@@ -19,7 +19,7 @@ man hittar oftast det man letar efter här.
 
 ### Färger
 
-Webbplatsen använder följande färgpalett:
+Webbplatsen använder följande enkla färgpalett:
 
 <ol class="palette">
     <li style="background-color: #8892bf" title="#8892bf"></li>
@@ -66,7 +66,7 @@ Det kanske inte är den absolut *snyggaste* webbplats världen skådat, men det 
 
 ### Färger
 
-Webbplatsen använder följande enkla färgpalett:
+Webbplatsen använder följande begränsade färgpalett:
 
 <ol class="palette">
     <li style="background-color: #96a8c8" title="#96a8c8"></li>
@@ -149,50 +149,64 @@ I övrigt är framtoningen jämförbar med många andra tidningars webbplatser, 
 men med samma typ av plottriga och rätt så tråkiga utseende som verkar vara branschens signum på nätet.
 
 
-4. Utsidan
-----------
+4. itslearning
+--------------
 
-[Utsidan](http://www.utsidan.se/) är en central mötesplats för friluftsfolk, med stort fokus på användarbidrag, främst i form av diskussionsforum, foton, artiklar och blogginlägg.
+[itslearning](http://www.itslearning.com/) är en digital lärplattform som används av diverse utbildningsinstitutioner. Här avses BTH:s standardversion.
 
-[![Skärmdump av Utsidan](img/screens/color04-small.png){.border}](img/screens/color04.png)
+[![Skärmdump av itslearning](img/screens/color04-small.png){.border}](img/screens/color04.png)
 
 ### Färger
 
-Webbplatsen använder sig till viss del av bakgrundsbilder med gradienter, vilket gör det knepigt att identifiera specifika färger, men här är ett försök:
+Webbplatsen använder en stor palett:
 
 <ol class="palette">
-    <li style="background-color: #dec9a5" title="#dec9a5"></li>
-    <li class="inv" style="background-color: #5d4927" title="#5d4927"></li>
-    <li class="inv" style="background-color: #44341b" title="#44341b"></li>
-    <li style="background-color: #e4ddd0" title="#e4ddd0"></li>
-    <li style="background-color: #d4cdc1" title="#d4cdc1"></li>
-    <li style="background-color: #88846f" title="#88846f"></li>
-    <li style="background-color: #e18789" title="#e18789"></li>
-    <li class="inv" style="background-color: #b70322" title="#b70322"></li>
-    <li class="inv" style="background-color: #b1171a" title="#b1171a"></li>
-    <li class="inv" style="background-color: #a3090d" title="#a3090d"></li>
-    <li style="background-color: #fade6f" title="#fade6f"></li>
-    <li style="background-color: #f6c600" title="#f6c600"></li>
-    <li class="inv" style="background-color: #00f" title="#00f"></li>
+    <li style="background-color: #ee7203" title="#ee7203"></li>
+    <li style="background-color: #65afb0" title="#65afb0"></li>
+    <li class="inv" style="background-color: #92268f" title="#92268f"></li>
+    <li style="background-color: #4cb992" title="#4cb992"></li>
+    
+    <li style="background-color: #ecf8ff" title="#ecf8ff"></li>
+    <li style="background-color: #c7e7ff" title="#c7e7ff"></li>
+    <li style="background-color: #2c8cd3" title="#2c8cd3"></li>
+    <li style="background-color: #287ec7" title="#287ec7"></li>
+    <li style="background-color: #0672bb" title="#0672bb"></li>
+    <li class="inv" style="background-color: #084085" title="#084085"></li>
+    <li class="inv" style="background-color: #0d6c9e" title="#0d6c9e"></li>
+    <li class="inv" style="background-color: #385782" title="#385782"></li>
+    
+    <li style="background-color: #edeff0" title="#edeff0"></li>
+    <li style="background-color: #c3c3bd" title="#c3c3bd"></li>
+    <li style="background-color: #836a81" title="#836a81"></li>
+    
     <li style="background-color: #fff" title="#fff"></li>
-    <li style="background-color: #ccc" title="#ccc"></li>
-    <li style="background-color: #aaa" title="#aaa"></li>
-    <li class="inv" style="background-color: #030905" title="#030905"></li>
-    <li class="inv" style="background-color: #000" title="#000"></li>
+    <li style="background-color: #f5f5f5" title="#f5f5f5"></li>
+    <li style="background-color: #f2f2f2" title="#f2f2f2"></li>
+    <li style="background-color: #f1f1f1" title="#f1f1f1"></li>
+    <li style="background-color: #ebebeb" title="#ebebeb"></li>
+    <li style="background-color: #e4e4e4" title="#e4e4e4"></li>
+    <li style="background-color: #e0e0e0" title="#e0e0e0"></li>
+    <li style="background-color: #9b9b9b" title="#9b9b9b"></li>
+    <li style="background-color: #808080" title="#808080"></li>
+    <li style="background-color: #767676" title="#767676"></li>
+    <li class="inv" style="background-color: #565656" title="#565656"></li>
+    <li class="inv" style="background-color: #555" title="#555"></li>
+    <li class="inv" style="background-color: #4a4a4a" title="#4a4a4a"></li>
+    <li class="inv" style="background-color: #323232" title="#323232"></li>
+    <li class="inv" style="background-color: #282828" title="#282828"></li>
 </ol>
 
-Färgschemat får sägas vara av **analog** typ, men med en tydlig åtskillnad (stort avstånd) mellan de brun-beigea och de röda nyanserna. 
-Det finns även en ytterligare undergrupp med gula nyanser som används för en produktpuff, plus en vanlig klarblå länkfärg för att framhäva aktuella händelser. 
-Dessutom förekommer i vanlig ordning en gråskala från vitt till svart.
-
-De djupröda nyanserna (#8--#10) är mycket närliggande och kan tillsammans sägas utgöra schemats accentfärg, även om den/de används i princip överallt och därmed tappar en del av sin kraft.
+Grundschemat (#1--#3) är ett skolboksexempel(!) på **triadiskt**, där den orangea färgen i produktens logotyp troligen utgjort utgångspunkten. 
+Schemat kompletteras av flera närliggande vilsamma blå färger för länkar plus en mörkare blå nyans för avdelningsrubriker, samt en stor uppsättning gråaktiga nyanser 
+(både rena gråtoner och avmättade färger). Det finns också en mer tydligt ljusgrön färg (#4) som används för knappar, 
+men detta är också det närmaste en accentfärg som färgschemat kommer.
 
 ### Typografi
 
-Webbplatsen använder **Arial** (*sans-serif*) överallt, med storlek och fetstil som enda åtskillnad.
+Webbplatsen använder **Open Sans** (*sans-serif*) för samtliga element, med storlek och fetstil som enda åtskillnad förutom färg.
 
 ### Profil
 
-Utsidan har aldrig haft något tydlig grafisk stil och webbplatsen är istället överlag avskalad och enkel, med den framträdande röda färgen som kännetecken; 
-samma färg återfinns även i kompassnålen i logotypen. Sammantaget finns alltså inte mycket till profil alls, utan fokus ligger på innehållet snarare än presentationen -- 
-vilket förmodligen är varken förvånande eller klandervärt hos en webbplats där det till övervägande del är användarna som står för nämnda innehåll.
+Färgvalet ger ett grällt intryck och för tankarna till barn, vilket kanske inte är orimligt för en skoltjänst -- men i akademiska sammanhang känns det inte helt lyckat, 
+då framtoningen kan uppfattas som mindre seriös. Det skall dock nämnas att originaltemat innehåller ännu fler pastellfärger i grönt, 
+blått och orange och att BTH tydligen valt att undertrycka flera av dessa till förmån för gråa nyanser i sitt eget utförande, vilket mildrar effekten.
