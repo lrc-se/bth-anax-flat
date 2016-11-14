@@ -45,6 +45,12 @@ return [
                 "mark-if-parent" => true
             ],
             
+            "theme" => [
+                "text"  => "Teman",
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => "Teman"
+            ],
+            
             "report" => [
                 "text"  => "Redovisning",
                 "url"   => $this->di->get("url")->create("report"),
@@ -98,6 +104,12 @@ return [
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => "Analys av webbplatser",
                 "mark-if-parent" => true
+            ],
+            
+            "theme" => [
+                "text"  => "Teman",
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => "Teman"
             ],
             
             "report" => [
