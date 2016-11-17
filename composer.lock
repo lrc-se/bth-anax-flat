@@ -159,16 +159,16 @@
         },
         {
             "name": "mos/anax",
-            "version": "v2.5.16",
+            "version": "v2.5.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/anax.git",
-                "reference": "72dba666776b76d4b370cf18fc5c4596121e3e14"
+                "reference": "aec2412f3d33f3ba3e9e6fe99a0581a16698d11c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/anax/zipball/72dba666776b76d4b370cf18fc5c4596121e3e14",
-                "reference": "72dba666776b76d4b370cf18fc5c4596121e3e14",
+                "url": "https://api.github.com/repos/mosbth/anax/zipball/aec2412f3d33f3ba3e9e6fe99a0581a16698d11c",
+                "reference": "aec2412f3d33f3ba3e9e6fe99a0581a16698d11c",
                 "shasum": ""
             },
             "require": {
@@ -209,29 +209,31 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-10-18 14:59:24"
+            "time": "2016-11-15 11:36:55"
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.0.12",
+            "version": "v1.0.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "4621ad919f6f3df0ad50b4a93ff911067bf250f6"
+                "reference": "97577c137889349e2432f37fff734411af29f16e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/4621ad919f6f3df0ad50b4a93ff911067bf250f6",
-                "reference": "4621ad919f6f3df0ad50b4a93ff911067bf250f6",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/97577c137889349e2432f37fff734411af29f16e",
+                "reference": "97577c137889349e2432f37fff734411af29f16e",
                 "shasum": ""
             },
             "require": {
                 "mos/anax": "^2.5",
                 "mos/cimage": "^0.7",
-                "mos/ctextfilter": "^1.2"
+                "mos/ctextfilter": "^1.2",
+                "symfony/yaml": "^3.1"
             },
             "suggest": {
-                "ext-yaml": "*"
+                "ext-yaml": "*",
+                "mustangostang/spyc": "^0.6"
             },
             "type": "library",
             "extra": {
@@ -262,7 +264,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-10-18 15:05:06"
+            "time": "2016-11-15 11:47:21"
         },
         {
             "name": "mos/cimage",
@@ -324,16 +326,16 @@
         },
         {
             "name": "mos/ctextfilter",
-            "version": "v1.2.15",
+            "version": "v1.2.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/ctextfilter.git",
-                "reference": "6ebbddf8a7c28db2a5fdfe9ed604f144731a342f"
+                "reference": "35e6e77c94a3e6883392a03a8d03195fd5f16a5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/6ebbddf8a7c28db2a5fdfe9ed604f144731a342f",
-                "reference": "6ebbddf8a7c28db2a5fdfe9ed604f144731a342f",
+                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/35e6e77c94a3e6883392a03a8d03195fd5f16a5b",
+                "reference": "35e6e77c94a3e6883392a03a8d03195fd5f16a5b",
                 "shasum": ""
             },
             "require": {
@@ -345,7 +347,9 @@
             },
             "suggest": {
                 "ext-json": "*",
-                "ext-yaml": "*"
+                "ext-yaml": "*",
+                "mustangostang/spyc": "^0.6",
+                "symfony/yaml": "^3.1"
             },
             "type": "library",
             "extra": {
@@ -381,7 +385,7 @@
                 "markdown",
                 "shortcode"
             ],
-            "time": "2016-10-18 14:07:21"
+            "time": "2016-11-14 14:25:06"
         },
         {
             "name": "scrivo/highlight.php",
@@ -416,6 +420,55 @@
                 "syntax"
             ],
             "time": "2016-01-01 14:08:00"
+        },
+        {
+            "name": "symfony/yaml",
+            "version": "v3.1.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/yaml.git",
+                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/7ff51b06c6c3d5cc6686df69004a42c69df09e27",
+                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.9"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.1-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Yaml\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Yaml Component",
+            "homepage": "https://symfony.com",
+            "time": "2016-10-24 18:41:13"
         }
     ],
     "packages-dev": [],

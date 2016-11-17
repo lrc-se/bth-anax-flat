@@ -22,7 +22,10 @@ return [
 
             // Style and stylesheets
             //"stylesheets" => ["css/default.min.css"],
-            "stylesheets" => ["css/style.min.css"],
+            "stylesheets" => [
+                "css/common.min.css",
+                "css/default.min.css"
+            ],
             "styleInline" => null,
 
             // JavaScript
