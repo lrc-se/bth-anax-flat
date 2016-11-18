@@ -59,6 +59,18 @@ $app->router->add("theme-selector", function () use ($app) {
 
     // Prepare the resulting page
     $app->theme->setTitle("Välj tema");
+    $app->views->add("default/image", [
+        "src" => "img/Vistas.jpg",
+        "alt" => "Övre Visttasvággi med omnejd"
+    ], "flash");
+    $app->views->add("default/breadcrumb", [
+        "meta" => ["type" => "breadcrumb"],
+        "breadcrumb" => [[
+            "text" => "Temaväljare",
+            "url" => "theme-selector",
+            "title" => "Temaväljare"
+        ]],
+    ], "breadcrumb");
     $app->views->add("theme-selector/index", [
         "themes"       => $themeConfig["themes"],
         "separator"    => $themeConfig["separator"],
