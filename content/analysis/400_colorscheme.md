@@ -9,8 +9,8 @@ samt hur resultatet påverkar webbplatsernas profil och uppfattningen av densamm
 </p>
 
 
-1. PHP-manualen
----------------
+PHP-manualen    {.section-heading}
+------------
 
 [PHP-manualen](http://www.php.net/manual/en/) är en såväl välkänd som välanvänd resurs bland många webbutvecklare och är överlag en riktigt bra referenswebbplats -- 
 man hittar oftast det man letar efter här.
@@ -25,7 +25,7 @@ Webbplatsen använder följande enkla färgpalett:
     <li style="background-color: #8892bf" title="#8892bf"></li>
     <li style="background-color: #4f5b93" title="#4f5b93"></li>
     <li style="background-color: #ae508d" title="#ae508d"></li>
-    <li style="background-color: #793862" title="#793862"></li>
+    <li class="inv" style="background-color: #793862" title="#793862"></li>
     <li style="background-color: #369" title="#369"></li>
     <li style="background-color: #693" title="#693"></li>
     <li style="background-color: #fff" title="#fff"></li>
@@ -57,8 +57,8 @@ men dessa utnyttjas effektivt för att framhäva informationen på ett sätt som
 Det kanske inte är den absolut *snyggaste* webbplats världen skådat, men det är ingen tvekan om att den uppfyller sitt syfte.
 
 
-2. xkcd
--------
+xkcd    {.section-heading}
+----
 
 [xkcd](http://xkcd.com/) är en webbserie (*webcomic*) som närmast har kultstatus i sådana här kretsar, där den brukar citeras flitigt i allehanda sammanhang.
 
@@ -79,7 +79,7 @@ Webbplatsen använder följande begränsade färgpalett:
 </ol>
 
 Färgschemat är mer eller mindre **monokromt** med en begränsad blågrå skala och består i övrigt uteslutande av vitt tillsammans med flera närliggande nyanser av mörkgrått och svart. 
-Schemat saknar en tydlig accentfärg.
+Schemat saknar en tydlig accentfärg, vilket också har att göra med att det inte finns så mycket som behöver framhävas.
 
 ### Typografi
 
@@ -94,8 +94,8 @@ Kort sagt föresätter sig webbplatsen inte att framhäva sig på något särski
 där den dämpade blågrå tonen fungerar väl för att bryta upp den lite stela svartvita känslan utan att dra uppmärksamhet till sig.
 
 
-3. Dagens industri
-------------------
+Dagens industri     {.section-heading}
+---------------
 
 [Di](http://di.se/) är en klassisk svensk näringslivstidning med börsfokus och har sedan länge en stark onlinenärvaro.
 
@@ -133,7 +133,7 @@ Färgschemat är en form av **delat komplementärt**, där den övervägande rö
 även om  valet av den sistnämnda kan vara något av en tillfällighet då den endast används för att markera "vinnare" (kontra "förlorare" i rött, enligt klassiska konnotationer). 
 Det förekommer även en skarp orange färg i vissa annonspuffar, samt en stor uppsättning gråtoner.
 
-Den huvudsakliga röda färgen (#5) används konsekvent för att markera såväl aktiva val som knappar och fungerar som en slags accentfärg, 
+Den huvudsakliga röda färgen (#5) används konsekvent för att markera bl.a. aktiva val och knappar och fungerar som en slags accentfärg, 
 även om den alltså tillsammans med de ljusa nyanserna även utgör grunden i hela temat.
 
 ### Typografi
@@ -148,17 +148,21 @@ så det är här fråga om att bygga vidare på ett väl inarbetat varumärke oc
 I övrigt är framtoningen jämförbar med många andra tidningars webbplatser, på gott och ont -- det är uppstramat och professionellt, 
 men med samma typ av plottriga och rätt så tråkiga utseende som verkar vara branschens signum på nätet.
 
+Det skall också nämnas att Di även har ett parallellt webbprojekt kallat [Di Digital](http://digital.di.se/) 
+som släpper den stilmässiga kopplingen till tidningen och uppvisar ett mer avskalat, modernt utseende med mycket vitt och en helt annan typografi, 
+men analysen ovan riktar alltså in sig på huvudwebbplatsen.
 
-4. itslearning
---------------
 
-[itslearning](http://www.itslearning.com/) är en digital lärplattform som används av diverse utbildningsinstitutioner. Här avses BTH:s standardversion.
+itslearning     {.section-heading}
+-----------
+
+[itslearning](http://www.itslearning.com/) är en digital lärplattform som används av diverse utbildningsinstitutioner. Här avses BTH:s standardversion, så som den ter sig för mig.
 
 [![Skärmdump av itslearning](img/screens/color04-small.png){.border}](img/screens/color04.png)
 
 ### Färger
 
-Webbplatsen använder en stor palett:
+Webbplatsen använder en stor palett, där många färger uppvisar mycket små skillnader:
 
 <ol class="palette">
     <li style="background-color: #ee7203" title="#ee7203"></li>
@@ -171,13 +175,16 @@ Webbplatsen använder en stor palett:
     <li style="background-color: #2c8cd3" title="#2c8cd3"></li>
     <li style="background-color: #287ec7" title="#287ec7"></li>
     <li style="background-color: #0672bb" title="#0672bb"></li>
+    <li class="inv" style="background-color: #0365a6" title="#0365a6"></li>
     <li class="inv" style="background-color: #084085" title="#084085"></li>
     <li class="inv" style="background-color: #0d6c9e" title="#0d6c9e"></li>
     <li class="inv" style="background-color: #385782" title="#385782"></li>
     
     <li style="background-color: #edeff0" title="#edeff0"></li>
     <li style="background-color: #c3c3bd" title="#c3c3bd"></li>
+    <li style="background-color: #b7aab5" title="#b7aab5"></li>
     <li style="background-color: #836a81" title="#836a81"></li>
+    <li class="inv" style="background-color: #554854" title="#554854"></li>
     
     <li style="background-color: #fff" title="#fff"></li>
     <li style="background-color: #f5f5f5" title="#f5f5f5"></li>
@@ -192,6 +199,7 @@ Webbplatsen använder en stor palett:
     <li class="inv" style="background-color: #565656" title="#565656"></li>
     <li class="inv" style="background-color: #555" title="#555"></li>
     <li class="inv" style="background-color: #4a4a4a" title="#4a4a4a"></li>
+    <li class="inv" style="background-color: #333" title="#333"></li>
     <li class="inv" style="background-color: #323232" title="#323232"></li>
     <li class="inv" style="background-color: #282828" title="#282828"></li>
 </ol>
@@ -209,4 +217,4 @@ Webbplatsen använder **Open Sans** (*sans-serif*) för samtliga element, med st
 
 Färgvalet ger ett grällt intryck och för tankarna till barn, vilket kanske inte är orimligt för en skoltjänst -- men i akademiska sammanhang känns det inte helt lyckat, 
 då framtoningen kan uppfattas som mindre seriös. Det skall dock nämnas att originaltemat innehåller ännu fler pastellfärger i grönt, 
-blått och orange och att BTH tydligen valt att undertrycka flera av dessa till förmån för gråa nyanser i sitt eget utförande, vilket mildrar effekten.
+blått och orange och att BTH verkar ha valt att undertrycka flera av dessa till förmån för gråa nyanser i sitt eget utförande, vilket mildrar effekten.
