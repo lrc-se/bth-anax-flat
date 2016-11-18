@@ -67,8 +67,7 @@ $app->router->add("theme-selector", function () use ($app) {
         "meta" => ["type" => "breadcrumb"],
         "breadcrumb" => [[
             "text" => "Temaväljare",
-            "url" => "theme-selector",
-            "title" => "Temaväljare"
+            "url" => "theme-selector"
         ]],
     ], "breadcrumb");
     $app->views->add("theme-selector/index", [
