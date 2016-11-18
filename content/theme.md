@@ -177,3 +177,30 @@ Paletten har ett tillägg i form av vitt (#18) för att komplettera den ljusgrå
 Temat definierar nya teckensnitt för rubriker, brödtext och kodelement, där jag i det första fallet bytt till ett med tunna serifer för ökad kontrast. Teckenstorleken är större överlag, 
 med en ny radhöjd om 24 px, och rubrikerna är också större än i de andra temana. I övrigt har de flesta ingående typografiska elementen fått nya eller justerade utseenden, 
 med frikostig färgläggning och fortsatt strikt anpassning till det horisontella rutnätet, vilket ger temat ett unikt och lätt&shy;igen&shy;kännligt utseende.
+
+
+### Fun
+
+Här hade jag en idé om att skapa ett [LCARS](https://en.wikipedia.org/wiki/LCARS)-tema i ren CSS, för att se om detta gick att uppnå inom ramarna för Anax Flat och den övriga kodstrukturen. 
+Paletten är därmed begränsad till en uppsättning på förhand definierade färger:
+
+<ol class="palette">
+    <li style="background-color: #f90" title="#f90"></li>
+    <li style="background-color: #fc9" title="#fc9"></li>
+    <li style="background-color: #f96" title="#f96"></li>
+    <li style="background-color: #c9c" title="#c9c"></li>
+    <li style="background-color: #c69" title="#c69"></li>
+    <li style="background-color: #99f" title="#99f"></li>
+    <li style="background-color: #99c" title="#99c"></li>
+    <li style="background-color: #c66" title="#c66"></li>
+    <li class="inv" style="background-color: #000" title="#000"></li>
+</ol>
+
+Jodå, det gick, men det tog sin lilla tid. Temat fungerar hyfsat i responsiva sammanhang, men på grund av bården till vänster är det inte det absolut mest lättanvända på riktigt små skärmar, 
+och det finns även några mindre skavanker som jag inte kommer ifrån på grund av hur ramverket är uppbyggt. Men: nära nog!
+
+Färgmässigt har jag använt #1 som den mest framträdande tonen, vilken går igen i nulägesmarkeringar och rubriker, 
+och utnyttjat det faktum att paletten innehåller både blå och lila nyanser för att stilsätta länkar, både ifråga om text och knappar. 
+Teckensnittet som används är snarlikt det officiella (vilket kostar pengar; detta är en gratisvariant som heter **Okuda**), 
+men det är knappast något man egentligen vill läsa mycket text i. Jag har gjort vad jag kunnat ifråga om typografin i övrigt, men har inte hållit benhårt på det horisontella rutnätet överallt. 
+Så, detta tema är mest en "kul grej", som ju var tanken -- och nog är det rätt udda, alltid...

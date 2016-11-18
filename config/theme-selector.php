@@ -58,7 +58,7 @@ return [
         "separator2" => "------------------------------------------------",
 
         "fun"       => [
-            "title"      => "Smågalet tema",
+            "title"      => "Specialtema (LCARS-stil)",
             "class"      => "fun",
             "stylesheets" => "css/lcars.min.css"
         ],
