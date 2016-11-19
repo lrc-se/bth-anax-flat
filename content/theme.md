@@ -98,6 +98,8 @@ Detta är i grund och botten en invertering av **light** (se ovan), men med klar
 Färgschemat är alltså komplementärt, där jag utgick från den klassiska grönt-på-svart-tanken från datorvärlden (för att inte säga Matrix), varpå den röda färgen följde naturligt. 
 Här har jag även gjort båda färgerna mer framträdande i temat, då de används på fler ställen än de blå nyanserna i **color**. Färg #3 är accentfärg.
 
+Mörka färgscheman på webbplatser är ofta svåra att få till -- särskilt sådana baserade på helsvart -- men jag tycker faktiskt att det här blev rätt bra.
+
 
 ### Colorful
 
@@ -181,13 +183,13 @@ med frikostig färgläggning och fortsatt strikt anpassning till det horisontell
 
 ### Fun
 
-Här hade jag en idé om att skapa ett [LCARS](https://en.wikipedia.org/wiki/LCARS)-tema i ren CSS, för att se om detta gick att uppnå inom ramarna för Anax Flat och den övriga kodstrukturen. 
-Paletten är därmed begränsad till en uppsättning på förhand definierade färger:
+Här hade jag en idé om att skapa ett [LCARS](https://en.wikipedia.org/wiki/LCARS)-tema i ren CSS (eller snarare ren LESS), 
+för att se om detta gick att uppnå inom ramarna för Anax Flat och den övriga kodstrukturen. Jag har begränsat paletten till en viss uppsättning på förhand definierade färger:
 
 <ol class="palette">
-    <li style="background-color: #f90" title="#f90"></li>
     <li style="background-color: #fc9" title="#fc9"></li>
     <li style="background-color: #f96" title="#f96"></li>
+    <li style="background-color: #f90" title="#f90"></li>
     <li style="background-color: #c9c" title="#c9c"></li>
     <li style="background-color: #c69" title="#c69"></li>
     <li style="background-color: #99f" title="#99f"></li>
@@ -199,8 +201,8 @@ Paletten är därmed begränsad till en uppsättning på förhand definierade f�
 Jodå, det gick, men det tog sin lilla tid. Temat fungerar hyfsat i responsiva sammanhang, men på grund av bården till vänster är det inte det absolut mest lättanvända på riktigt små skärmar, 
 och det finns även några mindre skavanker som jag inte kommer ifrån på grund av hur ramverket är uppbyggt. Men: nära nog!
 
-Färgmässigt har jag använt #1 som den mest framträdande tonen, vilken går igen i nulägesmarkeringar och rubriker, 
-och utnyttjat det faktum att paletten innehåller både blå och lila nyanser för att stilsätta länkar, både ifråga om text och knappar. 
+Färgmässigt har jag använt #3 som den mest framträdande tonen, vilken går igen i nulägesmarkeringar och rubriker, 
+och utnyttjat det faktum att paletten innehåller både blåaktiga och rödaktiga nyanser för att stilsätta länkar, både ifråga om text och knappar. 
 Teckensnittet som används är snarlikt det officiella (vilket kostar pengar; detta är en gratisvariant som heter **Okuda**), 
 men det är knappast något man egentligen vill läsa mycket text i. Jag har gjort vad jag kunnat ifråga om typografin i övrigt, men har inte hållit benhårt på det horisontella rutnätet överallt. 
 Så, detta tema är mest en "kul grej", som ju var tanken -- och nog är det rätt udda, alltid...
