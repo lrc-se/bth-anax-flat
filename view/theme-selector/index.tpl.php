@@ -17,7 +17,7 @@
             <legend>Välj ett tema</legend>
             <select name="theme" onchange="form.submit();">
                 <option value="-1">Inget specifikt tema valt</option>
-                <option value="-2">Inaktivera aktivt tema och använd standardinställningar</option>
+                <option value="-2">Återgå till standardinställningar</option>
                 <?php foreach ($themes as $key => $value) :
                     $selected = $key == $currentTheme["key"]
                         ? "selected"

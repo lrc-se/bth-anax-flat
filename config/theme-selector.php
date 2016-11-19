@@ -32,7 +32,7 @@ return [
         ],
 
         "color"     => [
-            "title"      => "Ljust tema med viss färgsättning",
+            "title"      => "Lätt färgsättning (ljust tema)",
             "class"      => "color",
             "stylesheets" => "css/color.min.css"
         ],
