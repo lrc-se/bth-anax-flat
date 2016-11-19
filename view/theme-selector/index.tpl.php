@@ -39,10 +39,10 @@
     
     <p>
         Här kan du välja ett tema för webbplatsen. Inställningarna för det valda temat sparas i sessionen och appliceras i huvudmallen när sidorna renderas. 
-        Om ingen session är aktiv kommer temat <strong>default</strong> att gälla.
+        Om sessionen inte innehåller ett aktivt tema kommer temat <strong>default</strong> att gälla.
     </p>
     
-    <p>Det valda temat kommer att göra följande:</p>
+    <p>Det tema som väljs kommer att göra följande:</p>
     
     <ul>
         <li>Ta bort alla stilmallar som tidigare definierats i grundkonfigurationen.</li>
