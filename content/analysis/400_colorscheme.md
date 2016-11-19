@@ -144,13 +144,14 @@ Brödtexten använder **Helvetica Neue** (*sans-serif*) och i sponsrade puffar �
 ### Profil
 
 Färgsättningen tar sin grund i den klassiska rosaaktiga pappersfärgen i den fysiska tidningen, varifrån även den skrikiga rödfärgen är hämtad, 
-så det är här fråga om att bygga vidare på ett väl inarbetat varumärke och den starka igenkänningsfaktorn hos detta. 
+så det är här fråga om att bygga vidare på ett väl inarbetat varumärke och den starka igen&shy;kännings&shy;faktorn hos detta -- 
+och man får förmoda att det inte är en tillfällighet att just signalfärgen rött används så här framträdande av en nyhets&shy;förmedlare, både fysiskt och digitalt. 
 I övrigt är framtoningen jämförbar med många andra tidningars webbplatser, på gott och ont -- det är uppstramat och professionellt, 
 men med samma typ av plottriga och rätt så tråkiga utseende som verkar vara branschens signum på nätet.
 
 Det skall också nämnas att Di även har ett parallellt webbprojekt kallat [Di Digital](http://digital.di.se/) 
 som släpper den stilmässiga kopplingen till tidningen och uppvisar ett mer avskalat, modernt utseende med mycket vitt och en helt annan typografi, 
-men analysen ovan riktar alltså in sig på huvudwebbplatsen.
+men analysen ovan riktar alltså in sig på huvud&shy;webbplatsen.
 
 
 itslearning     {.section-heading}

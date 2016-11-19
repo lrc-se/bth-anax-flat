@@ -21,7 +21,7 @@ men det finns en mycket begränsad färgpalett så att det även går att använ
 ### Default
 
 Standardtemat som hängt med sedan tidigare, nu i något uppdaterad version. Färgschemat är monokromt med en brungrå bas och utgår från färgtonen i sidhuvudets sommarfjällbild, 
-med några avvikande nyanser för länkar:
+med några avvikande nyanser för länkar (#8--#9):
 
 <ol class="palette">
     <li style="background-color: #cfc8c0" title="#cfc8c0"></li>
@@ -39,7 +39,8 @@ med några avvikande nyanser för länkar:
 </ol>
 
 De olika sektionerna har här fått olika bakgrundsfärg och åtskiljs även av tunna ramar. Hela innehållsytan har dessutom en mörk ram och en omgivande skuggning, 
-för att bättre lyfta fram den visuellt. Huvudsektionen är ljus och ofärgad med väl tilltagna marginaler för att dra åt sig besökarens blick.
+för att bättre lyfta fram den visuellt. Huvudsektionen är ljus och ofärgad med väl tilltagna marginaler för att dra åt sig besökarens blick. 
+Följande tre teman tar avstamp i detta utseende och arbetar främst med färgsättningen.
 
 
 ### Light
@@ -56,7 +57,7 @@ Ett ljust, avskalat tema med tjocka ramar och helt utan färger. Paletten bestå
     <li class="inv" style="background-color: #000" title="#000"></li>
 </ol>
 
-Utseendet baserar sig på en ofärdig mellanform jag stötte på under utvecklingen av den nya kod- och temastrukturen i [Kmom04](report/kmom04) -- 
+Utseendet baserar sig på en ofärdig mellanform av **default** ovan som jag stötte på under utvecklingen av den nya kod- och temastrukturen i [Kmom04](report/kmom04) -- 
 jag tyckte den såg rätt bra ut och bestämde mig för att jobba vidare med den. Framtoningen är minimalistisk och tydlig, men samtidigt kanske lite väl tråkig (se nästa tema). 
 Svart (#7) fungerar som accentfärg i menyn och inne&shy;hålls&shy;förteckningar (vänster sidopanel).
 
@@ -77,7 +78,7 @@ En variant av **light** (se ovan) där gråskalan bytts ut mot en uppsättning b
     <li class="inv" style="background-color: #000" title="#000"></li>
 </ol>
 
-Färgskalan är även här vald utifrån sidhuvudsbilden, som även inkluderar blåaktiga nyanser. Färg #6 är märkbart klarare än de övriga och tar över rollen som accentfärg från svart i föräldratemat.
+Färgskalan är även här vald utifrån sidhuvudsbilden, som också inkluderar blåaktiga nyanser. Färg #6 är märkbart klarare än de övriga och tar över rollen som accentfärg från svart i föräldratemat.
 
 
 ### Dark
@@ -89,7 +90,7 @@ Detta är i grund och botten en invertering av **light** (se ovan), men med klar
     <li style="background-color: #32854c" title="#32854c"></li>
     <li style="background-color: #b22d2b" title="#b22d2b"></li>
     <li style="background-color: #9c4241" title="#9c4241"></li>
-    <li style="background-color: #f8f8f8" title="#f8f8f"></li>
+    <li style="background-color: #f8f8f8" title="#f8f8f8"></li>
     <li style="background-color: #aaa" title="#aaa"></li>
     <li style="background-color: #666" title="#666"></li>
     <li class="inv" style="background-color: #000" title="#000"></li>
@@ -98,7 +99,7 @@ Detta är i grund och botten en invertering av **light** (se ovan), men med klar
 Färgschemat är alltså komplementärt, där jag utgick från den klassiska grönt-på-svart-tanken från datorvärlden (för att inte säga Matrix), varpå den röda färgen följde naturligt. 
 Här har jag även gjort båda färgerna mer framträdande i temat, då de används på fler ställen än de blå nyanserna i **color**. Färg #3 är accentfärg.
 
-Mörka färgscheman på webbplatser är ofta svåra att få till -- särskilt sådana baserade på helsvart -- men jag tycker faktiskt att det här blev rätt bra.
+Mörka färgscheman på webbplatser är ofta svåra att göra på ett bra sätt -- särskilt sådana baserade på helsvart -- men jag tycker faktiskt att det här blev rätt bra.
 
 
 ### Colorful
@@ -113,7 +114,7 @@ men med en skuggning av toppbilden för att framhäva den bättre i och med att 
     <li style="background-color: #912100" title="#912100"></li>
     <li class="inv" style="background-color: #6b1800" title="#6b1800"></li>
 
-    <li style="background-color: #346e91" title="#e36e48"></li>
+    <li style="background-color: #346e91" title="#346e91"></li>
     <li style="background-color: #185e87" title="#185e87"></li>
     <li class="inv" style="background-color: #0d4b70" title="#0d4b70"></li>
     <li class="inv" style="background-color: #053c5c" title="#053c5c"></li>
@@ -153,7 +154,7 @@ Paletten har ett tillägg i form av vitt (#18) för att komplettera den ljusgrå
     <li style="background-color: #912100" title="#912100"></li>
     <li class="inv" style="background-color: #6b1800" title="#6b1800"></li>
 
-    <li style="background-color: #346e91" title="#e36e48"></li>
+    <li style="background-color: #346e91" title="#346e91"></li>
     <li style="background-color: #185e87" title="#185e87"></li>
     <li class="inv" style="background-color: #0d4b70" title="#0d4b70"></li>
     <li class="inv" style="background-color: #053c5c" title="#053c5c"></li>
@@ -184,7 +185,7 @@ med frikostig färgläggning och fortsatt strikt anpassning till det horisontell
 ### Fun
 
 Här hade jag en idé om att skapa ett [LCARS](https://en.wikipedia.org/wiki/LCARS)-tema i ren CSS (eller snarare ren LESS), 
-för att se om detta gick att uppnå inom ramarna för Anax Flat och den övriga kodstrukturen. Jag har begränsat paletten till en viss uppsättning på förhand definierade färger:
+för att se om detta gick att uppnå inom ramarna för Anax Flat och den övriga kodstrukturen. Paletten är begränsad till en viss uppsättning på förhand definierade färger:
 
 <ol class="palette">
     <li style="background-color: #fc9" title="#fc9"></li>
@@ -202,7 +203,7 @@ Jodå, det gick, men det tog sin lilla tid. Temat fungerar hyfsat i responsiva s
 och det finns även några mindre skavanker som jag inte kommer ifrån på grund av hur ramverket är uppbyggt. Men: nära nog!
 
 Färgmässigt har jag använt #3 som den mest framträdande tonen, vilken går igen i nulägesmarkeringar och rubriker, 
-och utnyttjat det faktum att paletten innehåller både blåaktiga och rödaktiga nyanser för att stilsätta länkar, både ifråga om text och knappar. 
+och utnyttjat det faktum att paletten innehåller både blåaktiga och rödaktiga nyanser av lila för att stilsätta länkar, både ifråga om text och knappar. 
 Teckensnittet som används är snarlikt det officiella (vilket kostar pengar; detta är en gratisvariant som heter **Okuda**), 
 men det är knappast något man egentligen vill läsa mycket text i. Jag har gjort vad jag kunnat ifråga om typografin i övrigt, men har inte hållit benhårt på det horisontella rutnätet överallt. 
 Så, detta tema är mest en "kul grej", som ju var tanken -- och nog är det rätt udda, alltid...
