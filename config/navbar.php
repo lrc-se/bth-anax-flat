@@ -38,13 +38,6 @@ return [
                 "title" => "Test av typografisk stilsättning"
             ],
             
-            "analysis" => [
-                "text"  => "Analys",
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => "Analys av webbplatser",
-                "mark-if-parent" => true
-            ],
-            
             "theme" => [
                 "text"  => "Teman",
                 "url"   => $this->di->get("url")->create("theme"),
@@ -55,6 +48,20 @@ return [
                 "text"  => "Bilder",
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => "Bilder"
+            ],
+            
+            "blog" => [
+                "text"  => "Blogg",
+                "url"   => $this->di->get("url")->create("blog"),
+                "title" => "Fjällbildsblogg",
+                "mark-if-parent" => true
+            ],
+            
+            "analysis" => [
+                "text"  => "Analys",
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => "Analys av webbplatser",
+                "mark-if-parent" => true
             ],
             
             "report" => [
@@ -105,13 +112,6 @@ return [
                 "title" => "Test av typografisk stilsättning"
             ],
             
-            "analysis" => [
-                "text"  => "Analys",
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => "Analys av webbplatser",
-                "mark-if-parent" => true
-            ],
-            
             "theme" => [
                 "text"  => "Teman",
                 "url"   => $this->di->get("url")->create("theme"),
@@ -122,6 +122,20 @@ return [
                 "text"  => "Bilder",
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => "Bilder"
+            ],
+            
+            "blog" => [
+                "text"  => "Blogg",
+                "url"   => $this->di->get("url")->create("blog"),
+                "title" => "Fjällbildsblogg",
+                "mark-if-parent" => true
+            ],
+            
+            "analysis" => [
+                "text"  => "Analys",
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => "Analys av webbplatser",
+                "mark-if-parent" => true
             ],
             
             "report" => [
