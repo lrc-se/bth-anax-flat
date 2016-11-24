@@ -15,13 +15,13 @@ return [
         "items" => [
 
             "index" => [
-                "text"  => "Om mig",
+                "text"  => "Hem",
                 "url"   => $this->di->get("url")->create(""),
                 "title" => "Om mig"
             ],
             
             "about" => [
-                "text"  => "Om webbplatsen",
+                "text"  => "Om",
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => "Om webbplatsen"
             ],
@@ -49,6 +49,12 @@ return [
                 "text"  => "Teman",
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => "Teman"
+            ],
+            
+            "images" => [
+                "text"  => "Bilder",
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => "Bilder"
             ],
             
             "report" => [
@@ -110,6 +116,12 @@ return [
                 "text"  => "Teman",
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => "Teman"
+            ],
+            
+            "images" => [
+                "text"  => "Bilder",
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => "Bilder"
             ],
             
             "report" => [
