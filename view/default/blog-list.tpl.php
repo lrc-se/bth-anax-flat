@@ -27,6 +27,15 @@ $dateFormat = isset($dateFormat) ? $dateFormat : "Y-m-d";
         // Get time for publish/update/create
         list($pubStr, $published) = $this->getPublishedDate($item);
         $publishedFormatted = date($dateFormat, strtotime($published));
+        $publishedFormatted = strtr(mb_strtolower($publishedFormatted), [
+            'ary' => 'ari',
+            'march' => 'mars',
+            'may' => 'maj',
+            'june' => 'juni',
+            'july' => 'juli',
+            'august' => 'augusti',
+            'october' => 'oktober'
+        ]);
         //$datetime = $item["published"];
         //$date = $item["published"];
         

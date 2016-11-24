@@ -34,6 +34,7 @@ views:
 Fjällbilder
 ===========
 
-I denna fotoblogg presenterar jag en serie olika fjällbilder tillsammans med korta beskrivningar om fototillfällena.
+I denna fotoblogg presenterar jag en serie olika fjällbilder tillsammans med korta beskrivningar av fototillfällena. 
+Samtliga bilder är tagna med en Canon PowerShot S3 IS med en blandning av automatiska och manuella inställningar.
 
 */ Kalle*
