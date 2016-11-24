@@ -51,8 +51,8 @@ form&shy;bräden och regaler till&shy;verkas och säljs -- kaster som är dålig
 <div>[FIGURE class="third image-border" title=".figure.third.image-border" src="img/me2.jpg" alt="Sylselfie" caption="1/3 bredd, bildram, egen rad" nolink="1"]</div>
 
 <div>
-[FIGURE class="half border" title=".figure.half.border" src="image/Kaitum.jpg&a=0,40,0,15" alt="Kaitumdalen" caption="1/2 bredd, figurram" nolink="1"]
-[FIGURE class="quarter image-border" title=".figure.quarter.image-border" src="image/Kaitum.jpg&a=12,0,22,0" alt="Kaitumdalen" caption="1/4 bredd, bildram" nolink="1"]
+[FIGURE class="half border spacing" title=".figure.half.border.spacing" src="image/Kaitum.jpg&a=0,40,0,15" alt="Kaitumdalen" caption="1/2 bredd, figurram, horisontellt avstånd" nolink="1"]
+[FIGURE class="third image-border spacing" title=".figure.third.image-border.spacing" src="image/Kaitum.jpg&a=12,0,22,0" alt="Kaitumdalen" caption="1/3 bredd, bildram, horisontellt avstånd" nolink="1"]
 </div>
 
 <div>
