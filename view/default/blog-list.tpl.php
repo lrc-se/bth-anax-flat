@@ -58,7 +58,7 @@ $dateFormat = isset($dateFormat) ? $dateFormat : "Y-m-d";
 
 
         ?><section <?= $this->classList("blog-list-item") ?>>
-
+            <hr>
             <span class="meta-header"><time datetime="<?= $published ?>"><?= $publishedFormatted ?></time></span>
             
             <?= $excerpt ?>
