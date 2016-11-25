@@ -44,15 +44,15 @@ kaster som är dåligt hop&shy;komna och av otill&shy;räcklig kvalitet. Trä&sh
 ord&shy;ningens och ekonomins upp&shy;rätt&shy;hållande, och dock är det inte sällan som sorgliga erfaren&shy;heter görs på grund av det oförstånd med vilket kaster, 
 form&shy;bräden och regaler till&shy;verkas och säljs -- kaster som är dåligt hop&shy;komna och av otill&shy;räcklig kvalitet.
 
-[FIGURE class="third" title=".figure.third" src="image/Kaitum.jpg&f=negate" alt="Kaitumdalen" caption="1/3 bredd, inverterad" nolink="1"]
-[FIGURE class="third caption-center" title=".figure.third.caption-center" src="image/Kaitum.jpg&f=pixelate,10,1" alt="Kaitumdalen" caption="1/3 bredd, mosaik, centrerad bildtext" nolink="1"]
-[FIGURE class="third caption-right" title=".figure.third.caption-right" src="image/Kaitum.jpg&f=grayscale&f0=brightness,-20&f1=contrast,-20&f2=colorize,120,60,0,0&sharpen" alt="Kaitumdalen" caption="1/3 bredd, sepia, högerställd bildtext" nolink="1"]
+[FIGURE class="spacing" title=".figure.spacing" src="image/Kaitum.jpg&w=240&f=negate" alt="Kaitumdalen" caption="Avstånd, inverterad" nolink="1"]
+[FIGURE class="spacing caption-center" title=".figure.spacing.caption-center" src="image/Kaitum.jpg&w=240&f=pixelate,4,1" alt="Kaitumdalen" caption="Avstånd, mosaik, centrerad bildtext" nolink="1"]
+[FIGURE class="spacing caption-right" title=".figure.spacing.caption-right" src="image/Kaitum.jpg&w=240&f=grayscale&f0=brightness,-20&f1=contrast,-20&f2=colorize,120,60,0,0" alt="Kaitumdalen" caption="Avstånd, sepia, högerställd bildtext" nolink="1"]
 
 <div>[FIGURE class="third image-border" title=".figure.third.image-border" src="img/me2.jpg" alt="Sylselfie" caption="1/3 bredd, bildram, egen rad" nolink="1"]</div>
 
 <div>
-[FIGURE class="half border spacing" title=".figure.half.border.spacing" src="image/Kaitum.jpg&a=0,40,0,15" alt="Kaitumdalen" caption="1/2 bredd, figurram, horisontellt avstånd" nolink="1"]
-[FIGURE class="third image-border spacing" title=".figure.third.image-border.spacing" src="image/Kaitum.jpg&a=12,0,22,0" alt="Kaitumdalen" caption="1/3 bredd, bildram, horisontellt avstånd" nolink="1"]
+[FIGURE class="half border" title=".figure.half.border" src="image/Kaitum.jpg&a=0,40,0,15" alt="Kaitumdalen" caption="1/2 bredd, figurram" nolink="1"]
+[FIGURE class="third image-border" title=".figure.third.image-border" src="image/Kaitum.jpg&a=12,0,22,0" alt="Kaitumdalen" caption="1/3 bredd, bildram" nolink="1"]
 </div>
 
 <div>
@@ -67,9 +67,9 @@ kaster som är dåligt hop&shy;komna och av otill&shy;räcklig kvalitet. Trä&sh
 ord&shy;ningens och ekonomins upp&shy;rätt&shy;hållande, och dock är det inte sällan som sorgliga erfaren&shy;heter görs på grund av det oförstånd med vilket kaster, 
 form&shy;bräden och regaler till&shy;verkas och säljs -- kaster som är dåligt hop&shy;komna och av otill&shy;räcklig kvalitet.
 
-<div>[FIGURE class="center" title=".figure.center" src="image/Kaitum.jpg&w=400&h=320&ff=000000" alt="Kaitumdalen" caption="Centrerad" nolink="1"]</div>
+<div>[FIGURE class="center" title=".figure.center" src="image/Kaitum.jpg&w=400&h=320&ff=181818" alt="Kaitumdalen" caption="Centrerad" nolink="1"]</div>
 
-<div>[FIGURE class="center caption-center" title=".figure.center.caption-center" src="image/Kaitum.jpg&w=400&h=320&ff=000000" alt="Kaitumdalen" caption="Centrerad (inklusive bildtext)" nolink="1"]</div>
+<div>[FIGURE class="center caption-center" title=".figure.center.caption-center" src="image/Kaitum.jpg&w=400&h=320&ff=181818" alt="Kaitumdalen" caption="Centrerad (inklusive bildtext)" nolink="1"]</div>
 
 Trä&shy;uten&shy;silierna i ett tryckeri är inga&shy;lunda en oviktig faktor, för trev&shy;nadens, ord&shy;ningens och ekonomins upp&shy;rätt&shy;hållande, 
 och dock är det inte sällan som sorgliga erfaren&shy;heter görs på grund av det oförstånd med vilket kaster, form&shy;bräden och regaler till&shy;verkas och säljs -- 
@@ -80,7 +80,7 @@ Trä&shy;uten&shy;silierna i ett tryckeri är inga&shy;lunda en oviktig faktor, 
 och dock är det inte sällan som sorgliga erfaren&shy;heter görs på grund av det oförstånd med vilket kaster, form&shy;bräden och regaler till&shy;verkas och säljs -- 
 kaster som är dåligt hop&shy;komna och av otill&shy;räcklig kvalitet.
 
-[FIGURE class="full-width" title=".figure.full-width" src="image/Sarek.jpg&w=500&h=250&ff=0000aa" alt="Sarek" caption="Full bredd för det omslutande elementet utan begränsning av bildtextens bredd till bildens bredd" nolink="1"]
+[FIGURE class="full-width" title=".figure.full-width" src="image/Sarek.jpg&w=500&h=250&ff=000088" alt="Sarek" caption="Full bredd för det omslutande elementet utan begränsning av bildtextens bredd till bildens bredd" nolink="1"]
 
 Trä&shy;uten&shy;silierna i ett tryckeri är inga&shy;lunda en oviktig faktor, för trev&shy;nadens, ord&shy;ningens och ekonomins upp&shy;rätt&shy;hållande, 
 och dock är det inte sällan som sorgliga erfaren&shy;heter görs på grund av det oförstånd med vilket kaster, form&shy;bräden och regaler till&shy;verkas och säljs -- 
@@ -88,8 +88,8 @@ kaster som är dåligt hop&shy;komna och av otill&shy;räcklig kvalitet. Trä&sh
 ord&shy;ningens och ekonomins upp&shy;rätt&shy;hållande, och dock är det inte sällan som sorgliga erfaren&shy;heter görs på grund av det oförstånd med vilket kaster, 
 form&shy;bräden och regaler till&shy;verkas och säljs -- kaster som är dåligt hop&shy;komna och av otill&shy;räcklig kvalitet.
 
-[FIGURE class="full-width center border" title=".figure.full-width.center.border" src="image/Sarek.jpg&w=600&h=300&ff=0000aa" alt="Sarek" caption="Full bredd för det omslutande elementet utan begränsning av bildtextens bredd till bildens bredd, centrerad, figurram" nolink="1"]
-[FIGURE class="full-width center image-border" title=".figure.full-width.center.image-border" src="image/Sarek.jpg&w=600&h=300&ff=0000aa" alt="Sarek" caption="Full bredd för det omslutande elementet utan begränsning av bildtextens bredd till bildens bredd, centrerad, bildram" nolink="1"]
+[FIGURE class="full-width center border" title=".figure.full-width.center.border" src="image/Sarek.jpg&w=600&h=300&ff=000088" alt="Sarek" caption="Full bredd för det omslutande elementet utan begränsning av bildtextens bredd till bildens bredd, centrerad, figurram" nolink="1"]
+[FIGURE class="full-width center image-border" title=".figure.full-width.center.image-border" src="image/Sarek.jpg&w=600&h=300&ff=000088" alt="Sarek" caption="Full bredd för det omslutande elementet utan begränsning av bildtextens bredd till bildens bredd, centrerad, bildram" nolink="1"]
 
 Trä&shy;uten&shy;silierna i ett tryckeri är inga&shy;lunda en oviktig faktor, för trev&shy;nadens, ord&shy;ningens och ekonomins upp&shy;rätt&shy;hållande, 
 och dock är det inte sällan som sorgliga erfaren&shy;heter görs på grund av det oförstånd med vilket kaster, form&shy;bräden och regaler till&shy;verkas och säljs -- 
