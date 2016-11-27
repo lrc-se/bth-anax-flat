@@ -23,7 +23,7 @@ foreach ($category as $key => $cat) {
     $categoryStr .= $part . ", ";
 }
 $categoryStr = substr($categoryStr, 0, -2);
-$categoryStr = t("<strong>Kategori:</strong> !CATEGORIES", ["!CATEGORIES" => $categoryStr]);
+$categoryStr = t("<strong>Kategorier:</strong> !CATEGORIES", ["!CATEGORIES" => $categoryStr]);
 
 
 
