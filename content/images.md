@@ -57,8 +57,8 @@ form&shy;bräden och regaler till&shy;verkas och säljs -- kaster som är dålig
 
 <div>
 [FIGURE class="quarter top caption-right" title=".figure.quarter.top.caption-right" src="img/Sarek.jpg" alt="Sarek" caption="1/4 bredd, toppjustering, högerställd bildtext" nolink="1"]
-[FIGURE class="half caption-center" title=".figure.half.caption-center" src="image/me2.jpg&a=10,5,0,15" alt="Sylselfie" caption="1/2 bredd, centrerad bildtext" nolink="1"]
-[FIGURE class="quarter" title=".figure.quarter" src="image/Padjelanta.jpg&a=25,0,25,0" alt="Padjelanta" caption="1/4 bredd, bottenjustering, vänsterställd bildtext" nolink="1"]
+[FIGURE class="half middle caption-center" title=".figure.half.middle.caption-center" src="image/me2.jpg&a=10,5,0,15" alt="Sylselfie" caption="1/2 bredd, centrerad bildtext" nolink="1"]
+[FIGURE class="quarter middle" title=".figure.quarter.middle" src="image/Padjelanta.jpg&a=25,0,25,0" alt="Padjelanta" caption="1/4 bredd, mittenjustering, vänsterställd bildtext" nolink="1"]
 </div>
 
 Trä&shy;uten&shy;silierna i ett tryckeri är inga&shy;lunda en oviktig faktor, för trev&shy;nadens, ord&shy;ningens och ekonomins upp&shy;rätt&shy;hållande, 
