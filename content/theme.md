@@ -34,6 +34,7 @@ med några avvikande nyanser för länkar (#8--#9):
     <li style="background-color: #94683c" title="#94683c"></li>
     <li style="background-color: #825b35" title="#825b35"></li>
     <li style="background-color: #cbc8c4" title="#cbc8c4"></li>
+    <li style="background-color: #fff" title="#fff"></li>
     <li style="background-color: #f4f4f4" title="#f4f4f4"></li>
     <li class="inv" style="background-color: #000" title="#000"></li>
 </ol>
@@ -129,6 +130,7 @@ men med en skuggning av toppbilden för att framhäva den bättre i och med att 
     <li style="background-color: #1f83c0" title="#1f83c0"></li>
     <li style="background-color: #086297" title="#086297"></li>
 
+    <li style="background-color: #fff" title="#fff"></li>
     <li style="background-color: #eee" title="#eee"></li>
     <li style="background-color: #bbb" title="#bbb"></li>
     <li style="background-color: #888" title="#888"></li>
@@ -145,7 +147,7 @@ där den senare också utgör temats huvudfärg.
 ### Typography
 
 I detta tema, som bygger på **colorful** ovan, är det den typografiska stilsättningen som står i fokus. 
-Paletten har ett tillägg i form av vitt (#18) för att komplettera den ljusgrå bakgrunds&shy;färgen (#19) från föräldratemat:
+Paletten är densamma som i föräldratemat:
 
 <ol class="palette">
     <li style="background-color: #e36e48" title="#e36e48"></li>
