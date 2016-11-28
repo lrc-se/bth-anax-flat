@@ -2,10 +2,9 @@ Laddnings&shy;tid och använd&shy;barhet
 =======================================
 
 Här analyseras laddnings&shy;tid och använd&shy;barhet för fyra olika webbplatser baserat på deras resultat med [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/). 
-Laddnings&shy;tiden som redovisas är tid&shy;punkten då respektive sidas samtliga *egna* resurser laddats färdigt, då det är denna som avgör när sidan kan renderas och inter&ahy;ageras med fullt ut, 
-och inkluderar inte därpå följande asynkrona anrop. Detta motsvaras av händelsen `onload` i JavaScript samt den röda linjen i Chromes nätverks&shy;verktyg, 
-vilket är det som använts för att få fram siffrorna här.
-
+Laddnings&shy;tiden som redovisas är tid&shy;punkten då respektive sidas samtliga *egna* resurser laddats färdigt, 
+då det är denna som avgör när hela sidan kan renderas och inter&shy;ageras med fullt ut, och inkluderar inte därpå följande asynkrona anrop. 
+Detta motsvaras av händelsen `onload` i JavaScript samt den röda linjen i Chromes nätverks&shy;verktyg, vilket är det som använts för att få fram siffrorna här.
 
 Observera även att värdena för samtliga mät&shy;punkter som redovisas i denna analys kan variera över tid eftersom de individu&shy;ella sidorna ofta inte är statiska -- 
 liksom på grund av tillfälliga toppar och dalar i nätverks&shy;trafiken -- men nedan&shy;stående värden var de som gällde när jag utförde mätningarna (10/11 2016).
@@ -154,9 +153,9 @@ PageSpeed ger följande åtgärds&shy;förslag:
 <div class="table" markdown="1">
 | Mätpunkt       | Värde  |
 |----------------|--------|
-| Mobile Speed   | 70/100 |
-| Mobile UX      | 99/100 |
-| Desktop Speed  | 71/100 |
+| Mobile Speed   | 58/100 |
+| Mobile UX      | 98/100 |
+| Desktop Speed  | 64/100 |
 | Laddningstid   | 7,55 s |
 | Antal resurser | 187 st |
 | Total storlek  | 1,6 MB |
@@ -177,7 +176,7 @@ PageSpeed ger samma förslag som för startsidan ovan.
 | Desktop Speed  | 75/100 |
 | Laddningstid   | 5,68 s |
 | Antal resurser | 59 st  |
-| Total storlek  | 369 kB |
+| Total storlek  | 269 kB |
 </div>
 
 PageSpeed ger följande åtgärds&shy;förslag:
@@ -214,7 +213,7 @@ Slashdot (__/.__) är en klassisk nyhets&shy;webbplats för tekniska nyheter och
 <div class="table" markdown="1">
 | Mätpunkt       | Värde  |
 |----------------|--------|
-| Mobile Speed   | 50/100 |
+| Mobile Speed   | 55/100 |
 | Mobile UX      | 98/100 |
 | Desktop Speed  | 74/100 |
 | Laddningstid   | 5,44 s |
