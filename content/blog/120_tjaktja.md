@@ -14,13 +14,13 @@ category:
 Čeakčačohkka
 ============
 
-[FIGURE class="blog-image border" src="image/blog/panorama.jpg&w=1024" alt="Panorama"]
+[FIGURE class="blog-image border" src="image/blog/panorama.jpg&w=1600" alt="Panorama"]
 
 Čeakča&shy;čohkka är ett spännande massiv som utgör en del av den komplicerade topografin genast norr om Kebnekaise. Hela området kring [Tjäktja](http://www.stfturist.se/tjaktja), 
 [Nallo](http://www.stfturist.se/nallo) och [Vistas](http://www.stfturist.se/vistas) har en unik karaktär med höga, spetsiga och branta former och känns väldigt osvenskt, 
 så det är kanske inte så konstigt att jag ofta sökt mig tillbaka hit både sommar och vinter.
 
-Denna dag i början av mars 2013 hade jag bestämt mig för att bestiga Čeakča&shy;cohkkas 1820 meter höga topp med utgångs&shy;punkt från Tjäktja&shy;stugan nordväst om massivet. 
+Denna dag i början av mars 2013 hade jag bestämt mig för att bestiga Čeakča&shy;čohkkas 1820 meter höga topp med utgångs&shy;punkt från Tjäktja&shy;stugan nordväst om massivet. 
 Den vägen är enkel då man kan följa en måttligt lutande utlöpare en stor del av sträckan, medan en bestigning från öster innebär en betydligt brantare rutt. 
 Vintertid bildas även en stor hängdriva på topp&shy;kammens norra sida, vilket manar till stor försik&shy;tighet -- 
 det har förekommit dödsolyckor när folk trampat igenom den och rasat ner på glaciären flera hundra meter nedanför den stupande nordväggen. 

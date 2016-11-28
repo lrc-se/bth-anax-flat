@@ -22,8 +22,8 @@ ibland närmare än väntat, eller önskat. Med jämna mellanrum spatserar de ut
 till många gästers stora glädje.
 
 Detta var ett av många sådana tillfällen under min vistelse där sommaren 2014, så jag lärde mig snart känna igen flera av djuren som återkom då och då. 
-Många av dem var totalt orädda och lät sig både betittas och fotograferas från bara några meters avstånd. 
-Samtidigt var jag noga med att inte komma för nära, för det är inga små varelser det handlar om och en uppretad älg är inte att leka med. Den här höll sig dock lugn och poserade villigt för kameran.
+Många av dem var totalt orädda och lät sig både betittas och fotograferas från bara några meters avstånd. Samtidigt var jag noga med att inte komma *för* nära, 
+för det är inga små varelser det handlar om och en uppretad älg är inte att leka med. Den här höll sig dock lugn och poserade villigt för kameran.
 
 <div class="text-center">
 [FIGURE class="blog-image spacing" src="image/blog/alcesalces.jpg&a=7,38,7,15&h=250" alt="Vistasälg" caption="Älghuvud (färg)"]

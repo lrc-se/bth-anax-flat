@@ -1,14 +1,14 @@
-Laddningstid och användbarhet
-=============================
+Laddnings&shy;tid och använd&shy;barhet
+=======================================
 
-Här analyseras laddningstid och användbarhet för fyra olika webbplatser baserat på deras resultat med [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/). 
-Laddningstiden som redovisas är tidpunkten då respektive sidas samtliga *egna* resurser laddats färdigt, då det är denna som avgör när sidan kan renderas och interageras med fullt ut, 
-och inkluderar inte därpå följande asynkrona anrop. Detta motsvaras av händelsen `onload` i JavaScript samt den röda linjen i Chromes nätverksverktyg, 
+Här analyseras laddnings&shy;tid och använd&shy;barhet för fyra olika webbplatser baserat på deras resultat med [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/). 
+Laddnings&shy;tiden som redovisas är tid&shy;punkten då respektive sidas samtliga *egna* resurser laddats färdigt, då det är denna som avgör när sidan kan renderas och inter&ahy;ageras med fullt ut, 
+och inkluderar inte därpå följande asynkrona anrop. Detta motsvaras av händelsen `onload` i JavaScript samt den röda linjen i Chromes nätverks&shy;verktyg, 
 vilket är det som använts för att få fram siffrorna här.
 
 
-Observera även att värdena för samtliga mätpunkter som redovisas här kan variera över tid eftersom de individuella sidorna ofta inte är statiska -- 
-liksom på grund av tillfälliga toppar och dalar i nätverkstrafiken -- men nedanstående värden var de som gällde när jag utförde mätningarna.
+Observera även att värdena för samtliga mät&shy;punkter som redovisas i denna analys kan variera över tid eftersom de individu&shy;ella sidorna ofta inte är statiska -- 
+liksom på grund av tillfälliga toppar och dalar i nätverks&shy;trafiken -- men nedan&shy;stående värden var de som gällde när jag utförde mätningarna (10/11 2016).
 
 <p class="notice" markdown="1">
     *__OBS:__ Jag har utfört denna uppgift på egen hand och har därför inga övriga grupp&shy;medlemmar att redovisa.*
@@ -36,7 +36,7 @@ BTH är lärosätet som håller i den utbildning som denna kurs ingår i och des
 | Total storlek  | 2,0 MB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Enable compression
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
@@ -63,7 +63,7 @@ PageSpeed ger följande åtgärdsförslag:
 | Total storlek  | 1,3 MB  |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Enable compression
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
@@ -90,7 +90,7 @@ PageSpeed ger följande åtgärdsförslag:
 | Total storlek  | 614 kB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Leverage browser caching
@@ -116,8 +116,9 @@ och att hänvisa till en app med begränsad funktionalitet visar på en tveksam 
 Scandinavia and the World   {.section-heading}
 -------------------------
 
-SatW är en webbserie som handlar om de skandinaviska/nordiska folken och deras förhållande till både varandra och övriga världen. 
-Varje land representeras av en karaktär som uppvisar vissa stereotypa utseenden och beteenden för just det landet och mycket av humorn bygger på kultur&shy;krockar och överraskande nationella särarter.
+SatW är en webbserie som handlar om de skandi&shy;naviska/<wbr>nordiska folken och deras förhållande till både varandra och övriga världen. 
+Varje land represen&shy;teras av en karaktär som uppvisar vissa stereo&shy;typa utseenden och beteenden för just det landet och 
+mycket av humorn bygger på kultur&shy;krockar och över&shy;raskande nationella särarter.
 
 
 ### Startsida   {.subsection-heading}
@@ -135,7 +136,7 @@ Varje land representeras av en karaktär som uppvisar vissa stereotypa utseenden
 | Total storlek  | 1,0 MB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Optimize images
@@ -179,7 +180,7 @@ PageSpeed ger samma förslag som för startsidan ovan.
 | Total storlek  | 369 kB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Reduce server response time
@@ -195,7 +196,7 @@ PageSpeed ger följande åtgärdsförslag:
 
 ### Utvärdering
 
-SatW skulle kunna tjäna en del poäng på att dels slå ihop sina stilmallar till en och dels ändra laddningen av ett annonsskript till asynkron så det inte blockerar renderingen av sidan. 
+SatW skulle kunna tjäna en del poäng på att dels slå ihop sina stilmallar till en och dels ändra laddningen av ett annons&shy;skript till asynkron så det inte blockerar renderingen av sidan. 
 Det finns även vissa resurser som nu laddas in från andra ställen som de skulle kunna lägga på sin egen server för att ha större kontroll över cachning o.dyl. 
 och flera av bild&shy;resurserna skulle kunna komprimeras mer -- och eftersom det ofta rör sig om teckningar är det förvånande att många av dem sparats som JPEG istället för PNG.
 
@@ -221,7 +222,7 @@ Slashdot (__/.__) är en klassisk nyhets&shy;webbplats för tekniska nyheter och
 | Total storlek  | 643 kB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Prioritize visible content
@@ -255,7 +256,7 @@ PageSpeed ger samma förslag som för startsidan, utom "Avoid landing page redir
 
 ### Omröstningar    {.subsection-heading}
 
-<http://slashdot.org/polls>
+<https://slashdot.org/polls>
 
 <div class="table" markdown="1">
 | Mätpunkt       | Värde  |
@@ -268,7 +269,7 @@ PageSpeed ger samma förslag som för startsidan, utom "Avoid landing page redir
 | Total storlek  | 666 kB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Prioritize visible content
@@ -284,8 +285,9 @@ PageSpeed ger följande åtgärdsförslag:
 
 ### Utvärdering
 
-Slashdot får tydliga poäng&shy;avdrag för sin dubbla omdirigering på startsidan för mobil (HTTP &rarr; HTTPS &rarr; *m.*) och har även flera blockerande skript&shy;resurser som borde kunna slås ihop 
-och/<wbr>eller laddas asynkront. Precis som för de andra webbplatserna finns även utrymme för att optimera flera av bilderna, vilket kan utgöra en betydande besparing räknat i procent, 
+Slashdot får tydliga poäng&shy;avdrag för sin dubbla om&shy;diri&shy;gering på startsidan för mobil (HTTP &rarr; HTTPS &rarr; *m.*) 
+och har även flera blockerande skript&shy;resurser som borde kunna slås ihop och/<wbr>eller laddas asynkront. 
+Precis som för de andra webb&shy;platserna finns även utrymme för att optimera flera av bilderna, vilket kan utgöra en betydande besparing räknat i procent, 
 liksom att inkludera tecken&shy;snitts&shy;definitioner lokalt istället för att ladda in dem från Google varje gång.
 
 
@@ -310,7 +312,7 @@ IMDb, Internet Movie Database, är en riktig långkörare på nätet och använd
 | Total storlek  | 2,1 MB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Leverage browser caching
@@ -334,7 +336,7 @@ PageSpeed ger följande åtgärdsförslag:
 | Total storlek  | 851 kB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Leverage browser caching
@@ -359,7 +361,7 @@ PageSpeed ger följande åtgärdsförslag:
 | Total storlek  | 819 kB |
 </div>
 
-PageSpeed ger följande åtgärdsförslag:
+PageSpeed ger följande åtgärds&shy;förslag:
 
 * Eliminate render-blocking JavaScript and CSS in above-the-fold content
 * Leverage browser caching
@@ -371,27 +373,29 @@ PageSpeed ger följande åtgärdsförslag:
 
 ### Utvärdering
 
-Även IMDb har vinster att hämta på att kombinera sina skript- och stilresurser för att minska antalet anrop och 
-borde kunna utöva lite påtryckningar på moder&shy;företaget Amazon att hantera cachning bättre för de många externa resurserna. 
+Även IMDb har vinster att hämta på att kombinera sina skript- och stil&shy;resurser för att minska antalet anrop och 
+borde kunna utöva lite på&shy;tryck&shy;ningar på moder&shy;företaget Amazon att hantera cachning bättre för de många externa resurserna. 
 Serverns svarstid är också lite väl lång, men det kanske är att vänta för en så pass populär webbplats.
 
 
 Sammanfattning
 --------------
 
-Gemensamt för alla webbplatserna är att den största förbättrings&shy;potentialen ligger i hanterandet av skript och stilmallar, även om det finns praktiska gränser för vad som är rimligt att göra där 
-(se även [kurs&shy;momentets redovisnings&shy;text](report/kmom05) för en utförligare diskussion om detta), samt ifråga om bildkvalitet och server&shy;inställningar.
+Gemensamt för alla webb&shy;platserna är att den största för&shy;bättrings&shy;potentialen ligger i hanterandet av skript och stilmallar, 
+även om det finns praktiska gränser för vad som är rimligt att göra där (se även [kurs&shy;momentets redo&shy;visnings&shy;text](report/kmom05#pagespeed) 
+för en ut&shy;för&shy;ligare diskussion om detta), samt ifråga om bild&shy;kvalitet och server&shy;in&shy;ställ&shy;ningar.
 
-En annan återkommande sak är dock att det ofta är externa resurser som "bryter" mot "reglerna" och det kan därmed vara svårt att så att säga nå hela vägen fram -- 
-och det är lite ironiskt att det ofta är Googles egna tjänster som uppträder som bovar i de samman&shy;fattningarna... Samtliga webbplatser får även anmärkningar på saknad minifiering, 
+En annan åter&shy;kommande sak är dock att det ofta är externa resurser som "bryter" mot "reglerna" och det kan därmed vara svårt att så att säga nå hela vägen fram -- 
+och det är lite ironiskt att det ofta är Googles egna tjänster som uppträder som bovar i de samman&shy;fattningarna... Samtliga webbplatser får även an&shy;märk&shy;ningar på saknad minifiering, 
 men detta rör sig i regel inte om så stor påverkan i slutändan och eventuella åtgärder bör i första hand koncentreras till andra områden där de potentiella vinsterna ofta är flera storleks&shy;ordningar större.
 
 Slutligen påpekas att de allra flesta sidorna har vissa klickbara ytor som är lite små i mobilläge, 
-men om vi bortser från BTH:s studentportal är detta också den enda anmärkningen på använd&shy;barhets&shy;fronten där, med annars genomgående höga betyg.
+men om vi bortser från BTH:s student&shy;portal är detta också den enda an&shy;märk&shy;ningen på använd&shy;barhets&shy;fronten där, med annars genom&shy;gående höga betyg.
 
 
 ### Laddningstid
 
-Jag upplever för det mesta en laddningstid på max **3 sekunder** som tillfreds&shy;ställande och allt över **5 sekunder** som märkbart långsamt. 
+Jag upplever för det mesta en laddnings&shy;tid på max **3 sekunder** som tillfreds&shy;ställande och allt över **5 sekunder** som märkbart långsamt. 
 För beteckningen "snabb" vill jag helst komma ner under **2 sekunder**. I mitt test är det ingen sida som klarar den lägsta gränsen, medan det är flera 
-(alla SatW-sidor och Slashdots startsida) som överskrider den högsta. Bland de övriga ligger många mellan 2 och 3 sekunder, så överlag är det OK ur hastighets&shy;synpunkt.
+(alla SatW-sidor och Slashdots startsida) som överskrider den högsta. Bland de övriga ligger många mellan 2 och 3 sekunder och även de "långsamma" sidorna *upplevs* 
+som färdig&shy;laddade *innan* den registrerade tidpunkten uppnås, så överlag är det OK ur hastig&shy;hets&shy;synpunkt.

@@ -19,8 +19,8 @@ Sulitelma, eller *Sulidälbmá* som namnet skrivs med korrekt ortografi, troddes
 det var hit som stora delar av den gryende fjäll&shy;turismen styrde sin kosa i slutet av 1800-talet. 
 Även om det snabbt stod klart att massivet rent höjd&shy;mässigt ligger en god bit från de verkliga kungarna och drott&shy;ningarna är det häftigt i sig och hyser dessutom landets största glaciär.
 
-[FIGURE class="blog-image left quarter tighter" src="image/blog/Sulitelma.jpg&a=20,33,23,51&f=brightness,12&f0=contrast,-8&f1=colorize,10,10,10,0" alt="Suliskongen"]
-Denna bild är tagen från nordost en vacker sommardag 2009, där de mörka väggarna speglar sig i den blågröna sjön Stádaks blanka yta. 
+[FIGURE class="blog-image left quarter tight" src="image/blog/Sulitelma.jpg&a=20,33,23,51&f=brightness,12&f0=contrast,-8&f1=colorize,10,10,10,0" alt="Suliskongen"]
+Denna bild är tagen från Stáddá&shy;tjåhkkå nordost om massivet en vacker sommardag 2009, där de mörka väggarna speglar sig i den blågröna sjön Stádáks blanka yta. 
 Vi ser både den svenska Stor&shy;toppen till vänster i bild och den norska Sulis&shy;kongen, massivets högsta punkt, lite till höger om mitten liksom här intill. 
 Det är sällan det blir så här stilla i fjällen, så det är bara att passa på att njuta medan det varar.
 
