@@ -19,6 +19,8 @@ På en tidig höstvandring 2008 hade jag siktet inställt på Mårmaområdet nor
 bland annat mot de djärvt formade Höktopparna -- drog ett lågtryck in med dimma och lätt regn. 
 Jag låg och tryckte i tältet vid Giegajávri och när regnet upphörde gav jag mig av på en kvällspromenad upp på Alip Vealevárri för att få en efterlängtad vy ner mot Rávttasjávris delta.
 
+<!--more-->
+
 [FIGURE class="blog-image right third" src="image/blog/Aliseatnu.jpg&a=23,45,37,10&w=1024" caption="Dimmiga bergen"]
 På vägen upp började solstrålar så sakteliga strila genom molntäcket längst i väster och när jag närmade mig stupet ner mot deltat (som inte syns på det här fotot) 
 bröt ljuset plötsligt igenom med full kraft och badade Aliseatnus dalgång i flytande guld. Kameran smattrade oavbrutet och detta är i mitt tycke den bästa bilden. 

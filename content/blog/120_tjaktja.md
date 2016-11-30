@@ -20,6 +20,8 @@ category:
 [Nallo](http://www.stfturist.se/nallo) och [Vistas](http://www.stfturist.se/vistas) har en unik karaktär med höga, spetsiga och branta former och känns väldigt osvenskt, 
 så det är kanske inte så konstigt att jag ofta sökt mig tillbaka hit både sommar och vinter.
 
+<!--more-->
+
 Denna dag i början av mars 2013 hade jag bestämt mig för att bestiga Čeakča&shy;čohkkas 1820 meter höga topp med utgångs&shy;punkt från Tjäktja&shy;stugan nordväst om massivet. 
 Den vägen är enkel då man kan följa en måttligt lutande utlöpare en stor del av sträckan, medan en bestigning från öster innebär en betydligt brantare rutt. 
 Vintertid bildas även en stor hängdriva på topp&shy;kammens norra sida, vilket manar till stor försik&shy;tighet -- 

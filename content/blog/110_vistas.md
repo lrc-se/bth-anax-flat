@@ -25,6 +25,8 @@ Detta var ett av många sådana tillfällen under min vistelse där sommaren 201
 Många av dem var totalt orädda och lät sig både betittas och fotograferas från bara några meters avstånd. Samtidigt var jag noga med att inte komma *för* nära, 
 för det är inga små varelser det handlar om och en uppretad älg är inte att leka med. Den här höll sig dock lugn och poserade villigt för kameran.
 
+<!--more-->
+
 <div class="text-center">
 [FIGURE class="blog-image spacing" src="image/blog/alcesalces.jpg&a=7,38,7,15&h=250" alt="Vistasälg" caption="Älghuvud (färg)"]
 [FIGURE class="blog-image spacing" src="image/blog/alcesalces.jpg&a=7,38,7,15&h=250&f=grayscale&f0=brightness,20&f1=contrast,-10&selective_blur" alt="Vistasälg" caption="Älghuvud (svartvitt)"]
