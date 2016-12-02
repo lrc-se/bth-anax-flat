@@ -70,5 +70,11 @@ return [
             "class"      => "depth",
             "stylesheets" => "css/depth.min.css"
         ], 
+
+        "rep"       => [
+            "title"      => "Designprinciper: Repetition/inramning",
+            "class"      => "rep",
+            "stylesheets" => "css/rep.min.css"
+        ], 
     ]
 ];
