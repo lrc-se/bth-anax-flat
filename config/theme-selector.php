@@ -25,7 +25,7 @@ return [
 
         "separator1" => " ", //"------------------------------------------------",
 
-        "light"     =>  [
+        "light"     => [
             "title"      => "Ljust tema",
             "class"      => "light",
             "stylesheets" => "css/light.min.css"
@@ -62,5 +62,13 @@ return [
             "class"      => "fun",
             "stylesheets" => "css/lcars.min.css"
         ],
+        
+        "separator3" => " ",
+        
+        "depth"     => [
+            "title"      => "Designprinciper: Djup",
+            "class"      => "depth",
+            "stylesheets" => "css/depth.min.css"
+        ], 
     ]
 ];
