@@ -1,7 +1,7 @@
-Teman
-=====
+Standard
+========
 
-Webbplatsen erbjuder följande teman som kan appliceras genom [temaväljaren](theme-selector):
+Dessa är de teman som skapades i [Kmom04](report/kmom04) och utökades något i [Kmom05](report/kmom05) och som övriga temagrupper bygger på.
 
 
 ### Base

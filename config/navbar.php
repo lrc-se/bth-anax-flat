@@ -41,7 +41,8 @@ return [
             "theme" => [
                 "text"  => "Teman",
                 "url"   => $this->di->get("url")->create("theme"),
-                "title" => "Teman"
+                "title" => "Teman",
+                "mark-if-parent" => true
             ],
             
             "images" => [
@@ -115,7 +116,8 @@ return [
             "theme" => [
                 "text"  => "Teman",
                 "url"   => $this->di->get("url")->create("theme"),
-                "title" => "Teman"
+                "title" => "Teman",
+                "mark-if-parent" => true
             ],
             
             "images" => [

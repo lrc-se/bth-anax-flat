@@ -65,10 +65,16 @@ $app->router->add("theme-selector", function () use ($app) {
     ], "flash");
     $app->views->add("default/breadcrumb", [
         "meta" => ["type" => "breadcrumb"],
-        "breadcrumb" => [[
-            "text" => "Temaväljare",
-            "url" => "theme-selector"
-        ]],
+        "breadcrumb" => [
+            [
+                "text" => "Teman",
+                "url" => "theme"
+            ],
+            [
+                "text" => "Temaväljare",
+                "url" => "theme-selector"
+            ]
+        ],
     ], "breadcrumb");
     $app->views->add("theme-selector/index", [
         "themes"       => $themeConfig["themes"],
