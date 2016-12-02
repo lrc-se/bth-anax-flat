@@ -66,15 +66,21 @@ return [
         "separator3" => " ",
         
         "depth"     => [
-            "title"      => "Designprinciper: Djup",
+            "title"      => "Design: Djup",
             "class"      => "depth",
             "stylesheets" => "css/depth.min.css"
         ], 
 
         "rep"       => [
-            "title"      => "Designprinciper: Repetition/inramning",
+            "title"      => "Design: Repetition/inramning",
             "class"      => "rep",
             "stylesheets" => "css/rep.min.css"
+        ], 
+
+        "contrast"  => [
+            "title"      => "Design: Kontrast/riktning",
+            "class"      => "contrast",
+            "stylesheets" => "css/contrast.min.css"
         ], 
     ]
 ];
