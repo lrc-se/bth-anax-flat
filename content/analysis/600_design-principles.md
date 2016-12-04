@@ -1,5 +1,5 @@
-Designprinciper
-===============
+Design&shy;principer
+====================
 
 Här utvärderas fyra olika webbplatser utifrån de design&shy;principer de använder sig av samt hur detta påverkar hur webb&shy;platserna upplevs.
 
