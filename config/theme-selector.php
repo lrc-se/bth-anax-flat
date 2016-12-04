@@ -89,6 +89,13 @@ return [
             "title"      => "Element: Bakgrund/linjer",
             "class"      => "background",
             "stylesheets" => "css/background.min.css"
-        ], 
+        ],
+        
+        "gradients" => [
+            "title"      => "Element: Gradienter",
+            "class"      => "gradients",
+            "stylesheets" => "css/gradients.min.css"
+        ],
+
     ]
 ];
