@@ -5,11 +5,11 @@
  */
 return [
 
-    "separator" => " ", //"------------------------------------------------",
+    "separator" => " ",
     
     "themes" => [
 
-        "separator0" => " ", //"------------------------------------------------",
+        "separator0" => " ",
 
         "base"      => [
             "title"      => "Minimal stil (bastema)",
@@ -23,7 +23,7 @@ return [
             "stylesheets" => "css/default.min.css"
         ],
 
-        "separator1" => " ", //"------------------------------------------------",
+        "separator1" => " ",
 
         "light"     => [
             "title"      => "Ljust tema",
@@ -55,7 +55,7 @@ return [
             "stylesheets" => "css/typography.min.css"
         ],
 
-        "separator2" => " ", //"------------------------------------------------",
+        "separator2" => " ",
 
         "fun"       => [
             "title"      => "Specialtema (LCARS-stil)",
@@ -81,6 +81,14 @@ return [
             "title"      => "Design: Kontrast/riktning",
             "class"      => "contrast",
             "stylesheets" => "css/contrast.min.css"
+        ], 
+
+        "separator4" => " ",
+        
+        "background" => [
+            "title"      => "Element: Bakgrund/linjer",
+            "class"      => "background",
+            "stylesheets" => "css/background.min.css"
         ], 
     ]
 ];
