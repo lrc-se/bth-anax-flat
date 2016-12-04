@@ -49,7 +49,7 @@ PageSpeed ger följande åtgärds&shy;förslag:
 
 ### Programsida     {.subsection-heading}
 
-<http://www.bth.se/distansutbildningar/webbprogrammering/>
+[http://www.bth.se/<wbr>distansutbildningar/<wbr>webbprogrammering/](http://www.bth.se/distansutbildningar/webbprogrammering/)
 
 <div class="table" markdown="1">
 | Mätpunkt       | Värde   |
@@ -76,7 +76,7 @@ PageSpeed ger följande åtgärds&shy;förslag:
 
 ### Studentportalen     {.subsection-heading}
 
-<https://studentportal.bth.se/web/studentportal.nsf/web.xsp/>
+[https://studentportal.bth.se/<wbr>web/<wbr>studentportal.nsf/<wbr>web.xsp/](https://studentportal.bth.se/web/studentportal.nsf/web.xsp/)
 
 <div class="table" markdown="1">
 | Mätpunkt       | Värde  |
@@ -322,7 +322,7 @@ PageSpeed ger följande åtgärds&shy;förslag:
 
 ### Filmsida    {.subsection-heading}
 
-<http://www.imdb.com/title/tt0371724/>
+[http://www.imdb.com/<wbr>title/<wbr>tt0371724/](http://www.imdb.com/title/tt0371724/)
 
 <div class="table" markdown="1">
 | Mätpunkt       | Värde  |
@@ -347,7 +347,7 @@ PageSpeed ger följande åtgärds&shy;förslag:
 
 ### Skådespelarsida     {.subsection-heading}
 
-<http://www.imdb.com/name/nm0001772/>
+[http://www.imdb.com/<wbr>name/<wbr>nm0001772/](http://www.imdb.com/name/nm0001772/)
 
 <div class="table" markdown="1">
 | Mätpunkt       | Värde  |
