@@ -97,5 +97,10 @@ return [
             "stylesheets" => "css/gradients.min.css"
         ],
 
+        "texture"   => [
+            "title"      => "Element: Textur/transparens",
+            "class"      => "texture",
+            "stylesheets" => "css/texture.min.css"
+        ],
     ]
 ];

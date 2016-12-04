@@ -19,3 +19,12 @@ Dessutom har ett par pil&shy;bilder lagts till längst ner i sido&shy;panelerna 
 Bild&shy;elementen försvinner i lägre upp&shy;lösningar.
 
 **Uppfyllda krav:** 5, 8, 10
+
+
+### Texture
+
+Detta tema utgår från **gradients** ovan, men istället för toningar har de yttre fälten fått en "smuts&shy;textur". 
+Det ligger även en mer subtil textur på huvud&shy;innehålls&shy;ytan och bild&shy;texterna i bloggen har lyfts in i själva bilden, 
+med en halv&shy;genom&shy;skinlig bakgrund (öppna ett enskilt blogg&shy;inlägg för att se effekten).
+
+**Uppfyllda krav:** 4, 6, 8
