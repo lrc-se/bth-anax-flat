@@ -1,7 +1,8 @@
 Standard
 ========
 
-Dessa är de teman som skapades i [Kmom04](report/kmom04) och utökades något i [Kmom05](report/kmom05) och som övriga temagrupper bygger på.
+Dessa är de teman som skapades i [Kmom04](report/kmom04) och utökades något i [Kmom05](report/kmom05) och som övriga temagrupper bygger på. 
+Använd [tema&shy;väljaren](theme-selector) för att byta tema.
 
 
 ### Base
