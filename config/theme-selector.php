@@ -92,7 +92,7 @@ return [
         ],
         
         "gradients" => [
-            "title"      => "Element: Gradienter",
+            "title"      => "Element: Gradienter/bilder",
             "class"      => "gradients",
             "stylesheets" => "css/gradients.min.css"
         ],
