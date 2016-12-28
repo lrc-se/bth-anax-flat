@@ -23,6 +23,12 @@ return [
             "stylesheets" => "css/default.min.css"
         ],
 
+        "original"  => [
+            "title"      => "Ursprungstema",
+            "class"      => "original",
+            "stylesheets" => "css/original.min.css"
+        ],
+
         "separator1" => " ",
 
         "light"     => [
