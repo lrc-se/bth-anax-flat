@@ -1,8 +1,17 @@
 <?php
 /**
  * Add routes to the router, processed in the same order they are added.
- * The variabel $app relates to $this.
+ * The variable $app relates to $this.
  */
+
+// Add HTML classes based on query string
+if ($app->request->hasGet("vgrid")) {
+    $app->theme->appendToVariable("htmlClass", "vgrid");
+}
+
+if ($app->request->hasGet("hgrid")) {
+    $app->theme->appendToVariable("htmlClass", "hgrid");
+}
 
 // Support theme selector by adding class to html element
 if ($app->session->has("theme")) {
