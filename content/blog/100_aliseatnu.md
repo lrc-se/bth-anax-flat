@@ -13,7 +13,7 @@ category:
 Aliseatnu
 =========
 
-[FIGURE class="blog-image border" src="img/blog/Aliseatnu.jpg" alt="Aliseatnu"]
+[FIGURE class="blog-image border" src="image/blog/Aliseatnu.jpg?w=768" alt="Aliseatnu"]
 
 På en tidig höstvandring 2008 hade jag siktet inställt på Mårmaområdet nordost om Kebnekaise. Efter en solig inledning på turen med många fina vyer -- 
 bland annat mot de djärvt formade Höktopparna -- drog ett lågtryck in med dimma och lätt regn. 
@@ -21,7 +21,7 @@ Jag låg och tryckte i tältet vid Giegajávri och när regnet upphörde gav jag
 
 <!--more-->
 
-[FIGURE class="blog-image right third" src="image/blog/Aliseatnu.jpg&a=23,45,37,10&w=1024" caption="Dimmiga bergen"]
+[FIGURE class="blog-image right third" src="image/blog/Aliseatnu.jpg&a=23,45,37,10&w=480" caption="Dimmiga bergen"]
 På vägen upp började solstrålar så sakteliga strila genom molntäcket längst i väster och när jag närmade mig stupet ner mot deltat (som inte syns på det här fotot) 
 bröt ljuset plötsligt igenom med full kraft och badade Aliseatnus dalgång i flytande guld. Kameran smattrade oavbrutet och detta är i mitt tycke den bästa bilden. 
 Jag räknar den här upplevelsen till mina allra bästa i fjällen och tänkte där och då att det nu inte spelar någon som helst roll om nästa dag blir en riktig ruskvädersdag.

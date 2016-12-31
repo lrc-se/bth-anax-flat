@@ -14,7 +14,7 @@ category:
 Čeakčačohkka
 ============
 
-[FIGURE class="blog-image border" src="image/blog/panorama.jpg&w=1600" alt="Panorama"]
+[FIGURE class="blog-image border" src="image/blog/panorama.jpg?w=768" alt="Panorama"]
 
 Čeakča&shy;čohkka är ett spännande massiv som utgör en del av den komplicerade topografin genast norr om Kebnekaise. Hela området kring [Tjäktja](http://www.stfturist.se/tjaktja), 
 [Nallo](http://www.stfturist.se/nallo) och [Vistas](http://www.stfturist.se/vistas) har en unik karaktär med höga, spetsiga och branta former och känns väldigt osvenskt, 
@@ -38,8 +38,8 @@ att den korrekta siffran är 2004 m ö.h., vilket gjorde att landets exklusiva k
 Resten av utsikten går inte av för hackor heller, med Reaiddá&shy;čohkkas extremt spetsiga västtopp och de djupt fårade branterna kring Unna Reaiddá&shy;vággi som effektiva blickfång, 
 och Šielmmá&shy;čohkkas grannar uppvisar även en imponerande upp&shy;sättning av skarpa vinklar. Åt andra sidan, västerut, blir formerna betydligt mildare innan de djärvare norska topparna tar vid.
 
-[FIGURE class="blog-image" src="image/blog/panorama.jpg&a=0,0,0,51&f=brightness,10&f0=contrast,-10&w=1024" alt="Panorama (SO)" caption="Sydost"]
-[FIGURE class="blog-image" src="image/blog/panorama.jpg&a=0,36,0,26&f=brightness,5&f0=contrast,-5&w=1024" alt="Panorama (O)" caption="Ost"]
-[FIGURE class="blog-image" src="image/blog/panorama.jpg&a=0,60,0,0&f=contrast,-5&w=1024" alt="Panorama (NO)" caption="Nordost"]
+[FIGURE class="blog-image" src="image/blog/panorama.jpg&a=0,0,0,51&f=brightness,10&f0=contrast,-10&w=768" alt="Panorama (SO)" caption="Sydost"]
+[FIGURE class="blog-image" src="image/blog/panorama.jpg&a=0,36,0,26&f=brightness,5&f0=contrast,-5&w=768" alt="Panorama (O)" caption="Ost"]
+[FIGURE class="blog-image" src="image/blog/panorama.jpg&a=0,60,0,0&f=contrast,-5&w=768" alt="Panorama (NO)" caption="Nordost"]
 
-*Titta gärna även på [bilden i full&shy;storlek](img/blog/panorama.jpg) liksom på [hela det obeskurna 360°-panoramat](img/blog/panorama_orig.jpg)!*
+*Titta gärna även på [hela det obeskurna 360°-panoramat](img/blog/panorama_orig.jpg)!*

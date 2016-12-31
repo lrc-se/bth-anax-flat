@@ -14,7 +14,7 @@ category:
 Vistasälg
 =========
 
-[FIGURE class="blog-image border" src="img/blog/alcesalces.jpg" alt="Vistasälg"]
+[FIGURE class="blog-image border" src="image/blog/alcesalces.jpg?w=768" alt="Vistasälg"]
 
 [FIGURE class="blog-image left quarter tight" src="image/blog/alcesalces.jpg&a=36,49,41,35" alt="Älgöga"]
 I Vistasdalen finns det gott om älgar. Och inte nog med det: de är orädda också, så vandrare kan ofta få se dem på nära håll -- 

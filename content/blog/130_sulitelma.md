@@ -13,7 +13,7 @@ category:
 Sulitelma
 =========
 
-[FIGURE class="blog-image border" src="img/blog/Sulitelma.jpg" alt="Sulitelma"]
+[FIGURE class="blog-image border" src="image/blog/Sulitelma.jpg?w=768" alt="Sulitelma"]
 
 Sulitelma, eller *Sulidälbmá* som namnet skrivs med korrekt ortografi, troddes i äldre dagar vara Sveriges högsta fjäll och 
 det var hit som stora delar av den gryende fjäll&shy;turismen styrde sin kosa i slutet av 1800-talet. 
@@ -32,5 +32,5 @@ Där satt jag tryckt mot en sten, med regnet piskande mot hatten och blixtar lju
 Det var en ruskig upp&shy;levelse, men den skarpa kontrasten gjorde även att jag upp&shy;skattade den här dagen så mycket mer. 
 Min bas var den mysiga [Konsul Perssons stuga](http://www.stfturist.se/sarjasjaure), som ofta brukar benämnas som landets vackrast belägna -- och jag är nog böjd att hålla med...
 
-[FIGURE class="blog-image" src="image/blog/Sulitelma.jpg&w=1024&f=negate&f0=contrast,-5&f1=colorize,10,10,10,0&f2=gaussian_blur" alt="Sulitelma" caption="Effekt"]
-[FIGURE class="blog-image" src="image/blog/Sulitelma.jpg&a=52,15,14,0&w=1024&f=brightness,20&f0=contrast,-15" alt="Sulitelma" caption="Reflektera mera"]
+[FIGURE class="blog-image" src="image/blog/Sulitelma.jpg&w=768&f=negate&f0=contrast,-5&f1=colorize,10,10,10,0&f2=gaussian_blur" alt="Sulitelma" caption="Effekt"]
+[FIGURE class="blog-image" src="image/blog/Sulitelma.jpg&a=52,15,14,0&w=768&f=brightness,20&f0=contrast,-15" alt="Sulitelma" caption="Reflektera mera"]
