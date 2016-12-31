@@ -25,10 +25,10 @@ Ett nytt standard&shy;tema baserat på **background** från [design&shy;element&
 Temat skapades i samband med slut&shy;projektet i kursen, som en sista touch för den här webbplatsen.
 
 <ol class="palette">
-    <li style="background-color: #6d7aad" title="#6d7aad"></li>
-    <li style="background-color: #6273b8" title="#6273b8"></li>
-    <li class="inv" style="background-color: #3254b6" title="#3254b6"></li>
-    <li class="inv" style="background-color: #2d4ba2" title="#2d4ba2"></li>
+    <li style="background-color: #6a78ad" title="#6a78ad"></li>
+    <li style="background-color: #5e71b9" title="#5e71b9"></li>
+    <li class="inv" style="background-color: #2e50b8" title="#2e50b8"></li>
+    <li class="inv" style="background-color: #2947a4" title="#2947a4"></li>
 
     <li style="background-color: #fff" title="#fff"></li>
     <li style="background-color: #eee" title="#eee"></li>
