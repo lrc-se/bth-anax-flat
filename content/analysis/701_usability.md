@@ -5,7 +5,7 @@ Här analyseras använd&shy;barhet för fyra olika webbplatser utifrån de fem p
 av begreppet. Urvalet riktar in sig på stora och/eller populära webbplatser som jag själv använder regelbundet, 
 så att jag utifrån min egen erfarenhet som användare kan göra en bra bedömning av hur de fungerar generellt.
 
-Själva analysen utfördes genom att jag för vart och ett av kriterierna gick igenom webbplatsen med detta i tankarna, ofta en bit in på undersidorna, 
+Själva analysen utfördes genom att jag för vart och ett av kriterierna gick igenom webbplatsen med detta i tankarna, ofta en bit in på under&shy;sidorna, 
 och sedan skrev ner mina upplevelser tillsammans med mina allmänna erfarenheter sedan tidigare.
 
 <p class="notice" markdown="1">
@@ -16,7 +16,7 @@ och sedan skrev ner mina upplevelser tillsammans med mina allmänna erfarenheter
 dbwebb  {.section-heading}
 ------
 
-[dbwebb] står för "webb&shy;programmering och databaser" och utgör samlingsplatsen för de utbildningar inom fältet som ges genom BTH, 
+[dbwebb] står för "webb&shy;programmering och databaser" och utgör samlings&shy;platsen för de utbildningar inom fältet som ges genom BTH, 
 med en egen högst levande gemenskap webb&shy;programmerare emellan. Det är nu hög tid att se hur denna webbplats egentligen klarar sig igenom kriterierna som framförs i de egna kurserna.
 
 [![Skärmdump av dbwebb](img/screens/usability01-small.png){.border}](img/screens/usability01.png)
@@ -31,13 +31,13 @@ Upplägget med sekundär navigation i höger&shy;panelen är även genomgående 
 #### Effektivitet: 2/5
 
 Här är det lite sämre ställt. Det är många undernivåer och instruk&shy;tionerna är spridda över många olika sidor som inte alltid har ett uppenbart logiskt samband. 
-Detta gäller speciellt i de olika kurserna och det krävs många klick och mycket bläddring för att komma fram till exempelvis en specifik uppgift eller övning. 
+Detta gäller speciellt i de olika kurserna där det krävs många klick och mycket bläddring för att komma fram till exempelvis en specifik uppgift eller övning. 
 När man väl hittat dit upphör dessutom spår&shy;barheten nästan helt och hållet: bröd&shy;smule&shy;komponenten visar inte längre vilken väg man tagit, 
 föregående- och nästa-länkarna längst ner är inte kopplade till kursen ifråga och artikel&shy;kategori&shy;seringen går inte att använda för vidare navigation.
 
 Detta gör att uppgifterna och artiklarna blir nästan helt frikopplade från de kurser de hör till, vilket leder till öar och åter&shy;vänds&shy;gränder i hierarkin. 
 Effekten förstärks i sin tur av avsaknaden av en sök&shy;funktion (eller användbar kategoris&shy;ering enligt ovan), 
-vilket gör att man kan måsta bläddra igen väldigt många sidor manuellt för att hitta det man letar efter.
+vilket gör att man kan måsta bläddra igenom väldigt många sidor manuellt för att hitta det man letar efter.
 
 
 #### Hågkomst: 3/5
@@ -56,13 +56,13 @@ Då webbplatsen är väldigt enkel finns det inte så många direkta "fel" som g
 
 De brister som påtalas ovan motarbetar i viss mån den enkelhet och rättframhet som webbplatsen vill utstråla. Man lär sig efter ett tag att leva med dem, 
 men samtidigt är svårig&shy;heterna i att hitta tillbaka till ett visst ställe ett ständigt återkommande problem. Utseende&shy;mässigt gör även den minimala skillnaden mellan (icke-fetade) 
-rubriker och brödtext att textmassorna på de enskilda sidorna ofta flyter ihop och inte ger ögat några särskilt bra fäst&shy;punkter när man skannar av innehållet översiktligt, 
+rubriker och brödtext ofta att textmassorna på de enskilda sidorna flyter ihop och inte ger ögat några särskilt bra fäst&shy;punkter när man skannar av innehållet översiktligt, 
 vilket de flesta användare tenderar att göra.
 
 Webbplatsen är dock mycket snabb och har mycket blygsamma bandbredds&shy;krav, så man behöver aldrig sitta och vänta.
 
 
-#### Totalt: 16/25
+### Totalt: 16/25
 
 Här finns alltså både en del bra och en del dåligt. Enkelheten och snabbheten är klart positiva inslag, 
 men de hierarkiska problemen riskerar att leda till svårigheter för både nya och återkommande besökare och har en negativ inverkan på helhets&shy;upplevelsen.
@@ -96,21 +96,22 @@ men dessa har alltså avsiktligt fått ett mycket mindre fokus än den huvudsakl
 
 #### Hågkomst: 5/5
 
-Kort sagt: En stor sökruta med auto&shy;komplettering är svår att misslyckas med och listan med senast besökta platser kan vara guld värd för en återkommande besökare.
+Kort sagt: En stor sökruta med väl fungerande auto&shy;komplettering är svår att misslyckas med och listan med senast besökta platser kan vara guld värd för en återkommande besökare.
 
 
 #### Feltolerans: 5/5
 
-Det vanligaste felet man kan råka ut för är antagligen att skriva fel namn eller klicka på fel sökresultat och då är det bara att göra en ny sökning.
+Det vanligaste felet man kan råka ut för är antagligen att skriva fel namn eller klicka på fel sökresultat och då är det bara att göra en ny sökning, 
+vilket är enkelt då sökrutan finns med överallt -- även på artikel&shy;sidorna.
 
 
 #### Tillfredsställelse: 4/5
 
 Här är det inga konstigheter. De allra flesta använder webbplatsen för att uppdatera sig om väderutsikter och för detta ändamål fungerar den ypperligt, 
-även om det finns vissa mindre saker i stilsättningen som går att anmärka på. Webbplatsen är heller inte särskilt tung och laddar därför snabbt och fungerar även bra i mobilen (i separat version).
+även om det finns vissa mindre saker i stilsättningen som går att anmärka på. Webbplatsen är heller inte särskilt tung och laddar därför snabbt och fungerar även bra i mobilen, dock i separat version.
 
 
-#### Totalt: 24/25
+### Totalt: 24/25
 
 Samman&shy;fattnings&shy;vis är Yr en enkel och väl&shy;fungerande vädertjänst utan krusiduller, men som samtidigt innefattar mycket lättill&shy;gänglig information.
 
@@ -154,7 +155,7 @@ I forumet kan man även redigera sina egna inlägg inom en kort tidsperiod efter
 
 #### Tillfredsställelse: 3/5
 
-Designen börjar kännas ålders&shy;stigen och andas äldre tiders webb, med bland annat begränsade innehålls&shy;ytor och små mellanrum. 
+Designen börjar kännas ålder&shy;stigen och andas äldre tiders webb, med bland annat begränsade innehålls&shy;ytor och små mellanrum. 
 Det finns också en del inkonsekvens och buggar i de ingående elementen och hela webbplatsen skulle vinna på en mer genomtänkt stilsättning utgående från en konkret design&shy;filosofi 
 och/eller lämpliga design&shy;principer. En annan minuspost är att sidan inte är mobil&shy;anpassad och är bökig att använda på mindre skärmar.
 
@@ -163,10 +164,10 @@ De olika flödena med senaste upp&shy;dateringar på startsidan ger bra ingånga
 Forum&shy;komponenten är beprövad och lätthanterlig och det är även här som den mesta användar&shy;kontakten sker.
 
 
-#### Totalt: 19/25
+### Totalt: 19/25
 
 Utsidan är en sådan webbplats som man inte kommer till på grund av hur den ser ut, utan för vad den innehåller, så i stor utsträckning står den och faller med kvaliteten på användar&shy;bidragen. 
-Det finns en mycket stor samlad erfarenhet och kunskap och webbplatsen lyckas i mångt och mycket bra med att till&shy;handa&shy;hålla kanaler för att förmedla den.
+Det finns en mycket stor erfarenhet och kunskap samlad i dessa och webbplatsen lyckas i mångt och mycket bra med att till&shy;handa&shy;hålla kanaler för att förmedla detta.
 
 
 YouTube     {.section-heading}
@@ -187,7 +188,7 @@ Själva video&shy;spelaren är också enkelt hållen med ett fåtal synliga kont
 #### Effektivitet: 4/5
 
 Här är webbplatsens storlek och popularitet ett tveeggat svärd. Å ena sidan gör det att man ofta snabbt hittar nya videor med stort genomslag, såsom trailers för kommande storfilmer och TV-serier, 
-men å andra sidan leder precis samma effekt till att det blir *svårare* att hitta de lite mer obskyra klippen -- det totala antalet sökträffar räknas ofta i hundra&shy;tusental om inte miljoner, 
+men å andra sidan leder precis samma effekt till att det blir *svårare* att hitta de lite mer obskyra klippen. Det totala antalet sökträffar räknas ofta i hundra&shy;tusental om inte miljoner, 
 så man kan få bläddra fram många sidor innan man kommer förbi "trend&shy;sättarna".
 
 Höger&shy;panelen med relaterade videor på de enskilda video&shy;sidorna har ofta god träff&shy;säkerhet och leder besökaren vidare på webbplatsen på ett naturligt sätt.
@@ -196,7 +197,7 @@ Höger&shy;panelen med relaterade videor på de enskilda video&shy;sidorna har o
 #### Hågkomst: 4/5
 
 Det finns ingen större mystik kring hur webbplatsen och video&shy;spelaren fungerar -- alla har sett det förut. Av och till genomförs förändringar i gränssnittet som kan kräva viss tillvänjning, 
-såsom den halvnyliga övergången från Flash till HTML5, men det rör sig i allmänhet om skillnader i grad, inte klass. 
+såsom den halvnyliga övergången från Flash till HTML5 för video&shy;spelaren, men det rör sig i allmänhet om skillnader i grad, inte klass. 
 
 
 #### Feltolerans: 4/5
@@ -217,10 +218,10 @@ Bandbredden är heller sällan ett problem och det blir allt vanligare att video
 
 Den relaterade(!) funktionen som automatiskt går vidare till "nästa" video är dock mest irriterande innan man upptäcker den och kan stänga av den, 
 liksom den automatiska språk&shy;inställningen som man måste ända ner till botten av sidan för att kunna påverka. 
-De allt mer vanligt förekommande reklam&shy;klippen i början av många videor är också påfrestande, särskilt när det rör sig om helt ovid&shy;kommande saker.
+De allt mer vanligt förekommande reklam&shy;klippen i början av många videor är också påfrestande, särskilt när de tar lång tid på sig att gå igång och/eller rör sig om helt ovid&shy;kommande saker.
 
 
-#### Totalt: 20/25
+### Totalt: 20/25
 
 Liksom för Yr så är det svårt att misslyckas i någon större utsträckning här, särskilt för en gigant som är gammal i gemet och i princip grundade hela nischen. 
 Det finns dock viss för&shy;bättrings&shy;potential och webbplatsens storlek och tyngd i sig ligger den alltså också ibland i fatet.

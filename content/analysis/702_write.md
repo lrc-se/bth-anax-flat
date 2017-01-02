@@ -3,24 +3,20 @@ Skrivsätt
 
 Här analyseras språk&shy;bruket på fyra olika webb&shy;platser utifrån följande regelverk, som är baserat på guiden [Skriva för webben](https://www.iis.se/lar-dig-mer/guider/hur-man-skriver-for-webben):
 
-1. **Effektiva rubriker**
-
+1. **Effektiva rubriker**<br>
    Rubrikerna skall vara tydliga och rätt&shy;visande och fungera som en länk -- ofta i form av just en *hyperlänk* -- in till resten av texten. 
    Kort sagt, de skall fånga och bibehålla läsarens intresse och dessutom hålla vad de lovar.
    
-2. **Viktigast först**
-
+2. **Viktigast först**<br>
    På nätet läser de flesta inte alla ord, utan hoppar runt mellan korta brott&shy;stycken på sidan. Därför är det viktigt att det man har störst intresse av att förmedla kommer så tidigt som möjligt, 
    på ett så tydligt sätt som möjligt, så att läsaren inte missar det.
    
-3. **Kort, men inte för kort**
-
+3. **Kort, men inte för kort**<br>
    En följd av ovan&shy;stående regel är att man bör hålla texterna så korta det går. 
    Då de flesta ändå inte kommer att läsa stora text&shy;massor från start till slut ökar man chansen att det man skrivit faktiskt läses och uppfattas om det inte är så långt, 
    men samtidigt får man se upp så att man inte skalar bort delar som är väsentliga för för&shy;ståelsen och budskapet.
    
-4. **Styckes&shy;indelning**
-
+4. **Styckesindelning**<br>
    Använd i första hand blank&shy;rader för att dela upp texten i stycken, vilket gör den mer lättläst. Också i detta fall läses ofta bara början av stycket, 
    så ovan&shy;stående regler gäller även här och gör att man bör påbörja ett nytt stycke när man intro&shy;ducerar något nytt man vill få fram, 
    så att detta inte göms inne i texten och därmed riskerar att missas.
@@ -46,7 +42,8 @@ och de båda publika&shy;tionerna använder samma tekniska plattform för sina w
 #### Effektiva rubriker
 
 Som varande en tidning har LT stor vana av rubrik&shy;sättning och man kan tydligt se pappers&shy;tidningens inflytande även på webben -- 
-det är tydliga, informativa rubriker med en klar avsikt att få besökaren att även läsa den tillhörande artikeln.
+det är tydliga, informativa rubriker med en klar avsikt att få besökaren att även läsa den tillhörande artikeln. 
+Detta är extra viktigt då många av artiklarna numera är skyddade bakom en s.k. *paywall*.
 
 
 #### Viktigast först
@@ -83,18 +80,18 @@ På samma sätt som för tidningen ovan är det gott ställt på rubrik&shy;fron
 #### Viktigast först
 
 Även de enskilda artiklarna påminner om tidningens, med en tydlig samman&shy;fattande/<wbr>inledande ingress. 
-Här hålls dock relaterat-länkarna i botten och eftersom det rör sig om public service finns heller inga störande annonsytor.
+Här hålls dock relaterat-länkarna i botten där de bättre hör hemma och eftersom det rör sig om public service finns heller inga störande annonsytor.
 
 
 #### Kort, men inte för kort
 
-Längden på artiklarna varierar från korta notiser till längre rapporter om större och viktigare händelser, men meningarna är genomgående av det kortare slaget och språket är relativt rättframt, 
+Längden på artiklarna varierar från korta notiser till längre rapporter om större och viktigare händelser. Meningarna är genomgående av det kortare slaget och språket är relativt rättframt, 
 även om det förekommer en del nyhets&shy;jargong, myndighets&shy;termer etc.
 
 
 #### Styckesindelning
 
-SVT:s indelning påminner också LT:s, men styckena är överlag något längre här. En klar skillnad till SVT:s förde är dock ett betydligt bättre användande av radavstånd och blank&shy;rads&shy;höjd, 
+SVT:s styckes&shy;indelning påminner också om LT:s, men styckena är överlag något längre här. En klar skillnad till SVT:s fördel är dock ett betydligt bättre användande av radavstånd och blank&shy;rads&shy;höjd, 
 vilket tillsammans med konsekvent nyttjande och placering av mellan&shy;rubriker gör texterna lätta att läsa och ta till sig.
 
 
@@ -129,7 +126,7 @@ Upp&shy;delningen i rubrik&shy;satta sektioner gör också att längden känns m
 
 #### Styckesindelning
 
-Alla artiklar är indelade i stycken, men hur detta har gjorts skiljer såg kraftigt åt mellan olika sidor, vilket är en ound&shy;viklig konsekvens av det kooperativa författar&shy;systemet. 
+Alla artiklar är indelade i stycken, men hur detta har gjorts skiljer sig kraftigt åt mellan olika sidor, vilket är en ound&shy;viklig konsekvens av det kooperativa författar&shy;systemet. 
 I många fall känns styckena onödigt långa och tunga och överlag tenderar texterna att ligga åt det akademiska hållet, särskilt i veten&shy;skapliga och tekniska ämnen. 
 Blankrads&shy;höjden är även något låg med en otydligare åtskillnad mellan styckena som följd.
 
@@ -138,11 +135,10 @@ Skriva för webben   {.section-heading}
 -----------------
 
 [Skriva för webben](https://www.iis.se/lar-dig-mer/guider/hur-man-skriver-for-webben) är alltså den samling riktlinjer från [IIS](https://www.iis.se/) som denna analys grundar sig på, 
-så låt oss se hur väl den lever upp till sina egna rekommenda&shy;tioner.
+så låt oss slutligen se hur väl den lever upp till sina egna rekommenda&shy;tioner.
 
 
 #### Effektiva rubriker
-
 Guiden är uppdelad i avsnitt som har både huvud- och under&shy;rubriker, med en komplett innehålls&shy;förteckning på startsidan. 
 De flesta av kapitlen följer rubrik&shy;rikt&shy;linjerna, men kapitel 4 sticker ut med sina Wikipedia&shy;liknande enords&shy;etiketter.
 
@@ -177,4 +173,5 @@ medan de sista två har mer referens&shy;karaktär.
 
 Detta återspeglas i språkbruket, där de först&shy;nämnda har en förkärlek för blick&shy;fångande rubriker och korta texter, 
 stycken och meningar, medan de sist&shy;nämnda mer känns som de strikt upplagda upp&shy;slags&shy;verk de gör anspråk på att vara. 
-Denna skillnad är förmodligen i mångt och mycket ett resultat av ett dubbel&shy;riktat beroende mellan besökarnas förväntningar och intresse och webb&shy;platsernas presentation av den eftersökta informa&shy;tionen.
+Denna skillnad är förmodligen i mångt och mycket ett resultat av ett dubbel&shy;riktat beroende mellan besökarnas förväntningar och intresse å ena sidan och 
+webb&shy;platsernas presentation av den eftersökta informa&shy;tionen å den andra.
