@@ -21,7 +21,6 @@ return [
             "favicon"       => "favicon.ico",
 
             // Style and stylesheets
-            //"stylesheets" => ["css/default.min.css"],
             "stylesheets" => [
                 "css/common.min.css",
                 "css/default.min.css"
@@ -39,28 +38,12 @@ return [
      * Add default views to always include.
      */
     "views" => [
-        /*[
-            "region" => "header",
-            "template" => "default/image",
-            "data" => [
-                "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
-                "alt" => "Logo",
-            ],
-            "sort" => 1
-        ],*/
         [
             "region" => "header",
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "Kalles sida",
-                /*"siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
-                "siteLogoTextIconAlt" => "Small logo",
-                "siteLogo"      => null, //"img/anax.png",
-                "siteLogoAlt"   => null, //"Anax Logo",
-                "siteTitle"     => null, //"Anax PHP framework",
-                "siteSlogan"    => null, //"Reusable modules for web development"*/
             ],
             "sort" => 2
         ],
@@ -78,25 +61,6 @@ return [
             "data" => [],
             "sort" => 1
         ],
-        /*[
-            "region" => "footer",
-            "template" => "default/columns",
-            "data" => [
-                "class"  => "footer-column",
-                "columns" => [
-                    [
-                        "contentRoute" => "block/footer-col-1",
-                    ],
-                    [
-                        "contentRoute" => "block/footer-col-2",
-                    ],
-                    [
-                        "contentRoute" => "block/footer-col-3",
-                    ]
-                ]
-            ],
-            "sort" => 1
-        ],*/
         [
             "region" => "footer",
             "template" => "default/block",
