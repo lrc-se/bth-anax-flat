@@ -25,7 +25,8 @@ med en egen högst levande gemenskap webb&shy;programmerare emellan. Det är nu 
 #### Lärbarhet: 4/5
 
 Det enkla grund&shy;upplägget gör att det är lätt för en första&shy;gångs&shy;besökare att komma vidare, t.ex. för att se kursutbudet. 
-Upplägget med sekundär navigation i höger&shy;panelen är även genomgående på (nästan) hela webbplatsen, så det sätter sig snabbt.
+Upplägget med sekundär navigation i höger&shy;panelen är även genomgående på (nästan) hela webbplatsen, så det sätter sig snabbt. 
+Det är dock inte genast uppenbart vad ikonerna i det övre högra hörnet är till för.
 
 
 #### Effektivitet: 2/5
